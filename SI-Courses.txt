@@ -1,0 +1,515 @@
+SI Courses
+________________
+SI 206: Data-Oriented Programming
+Workload: Moderate
+Content: Continuation of 106 and learning basics of Python and introduction to SQL
+Structure: Weekly assignments, midterm and a final project
+
+
+Reviews: 
+Brooke Powning | Information Analysis
+First half is basically a review of 106, so take advantage of the review! Take during sophomore year.
+________________
+
+
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+(Taken Fall 2019) I took EECS 183 and not SI 106, so I was worried to jump into 206 with little python knowledge. This class was super manageable and easy to get an A. Definitely take it your sophomore year if possible (I did first semester and it was fine). 
+________________
+
+
+Juan Thompson | UX Design, Entrepreneurship Minor, Art and Design Minor
+I really enjoyed this course and found it challenging but manageable. Like any other programming course it’s important to stay on top of readings. I’d also recommend taking this course sophomore year and avoid combining this with SI 339 (I’ve heard a lot of kids say the combined workload is heavy and lots of deadlines overlap).
+________________
+SI 300: Career and Internship Studio - Design Your Success
+Workload: Very light
+Objective: Introduce basics to job search such as STAR method or negotiating salaries
+Structure: No exams! Just one small assignment a week
+
+
+Reviews: 
+Brooke Powning | Information Analysis
+This class is super helpful and is packed with awesome advice so go to it!
+________________
+
+
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+(Taken Fall 2020)They say that UX path should take this course the 2nd half of the semester, but I completely disagree. The earlier you can get this done + start working on recruiting stuff the better. 
+________________
+SI 301: Models of Social Information Processing
+Workload: Moderate
+Objective: How social groups form, interact and change
+Structure: Weekly homework assignments and a final exam
+
+
+Reviews: 
+Maya Chalker | Information Analysis & Business Minor
+This class is alright. Weekly homeworks are a little long and you can only work on assignments with each person once, but if you go to office hours with the right people they're pretty helpful/confirm your answers. Exams are straight forward and not trying to trick you.
+________________
+
+
+Katie Lawton | Information Analysis & Math Minor
+This class is taught all asynchronously except for the discussions. Overall, the class is not too difficult, but homework assignments can become difficult if you do not keep up on the lectures and information. You can only work with one person one time on an assignment so making connections with other students and taking this course alongside your friends is important!
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor
+This class focuses on networks, game theory, and auctions. It doesn't always seem super applicable to an IA degree, but the content is fairly interesting. Class set up is participation (in-person iClicker questions), 2 exams, and a weekly homework. The homeworks are pretty long and annoying tbh but not hard if you pay attention in class. 
+________________
+
+
+SI 310 Information Environments and Work
+Workload: Light-moderate
+Objective: Learning about different types of organizations and how information is used in them
+Structure: Weekly reading quizzes and “one minute papers”, midterm and final
+
+
+Reviews: 
+Katie Lawton | Information Analysis & Math Minor
+Probably the most boring SI class I have ever taken. It is a mandatory class to take so that is unfortunate. Although it is boring, it is not difficult at all. All the information you need is in the slides, and the exams are very similar to the practice exams.
+________________
+
+
+Sydney Bruce | UX Design & Business Minor
+(Taken fall 2020) This is one of the required core classes for all SI students (UX and IA). More like a business class and puts design/information analysis into a business perspective. Although it was not the most interesting class ever it was not very difficult and can be taken with harder classes if need be. I recommend getting this out of the way first semester in SI and that is when most juniors take it and you will get to know your SI class. 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+This is the "business communications" class of SI. You write these little one-page "memos" that summarize and analyze large swaths of text and research. Honestly, it's kind of an annoying class and gets that rep for a reason. The GSIs make a big deal about saying "oh you will improve over the semester" and intentionally mark you down early on in the year. At the end of the day, you will get an A if you do an okay job and the exams were really easy. Lecture is kinda useless but worth attending. But they want you to think that you will do badly so you work harder lol. I will say that my concision and technical writing improved a lot as a result of the class, which was super useful in my career. Overall, good class and learned a lot, it was just annoying in many ways.
+________________
+
+
+Brooke Powning | Information Analysis & Math Minor
+The material isn’t super crazy so as long as you go to class and do the work you’ll get a good grade!
+________________
+
+
+Alyssa Russell | Information Analysis & Interdisciplinary Astronomy
+Kinda boring and feels like a Ross class but its very easy. Exams are take home and open everything. Start the exams early!!! You have a week to do them. But the content is fairly straightforward with some topics being more interesting than others
+________________
+
+
+Maya Chalker | Information Analysis & Business Minor
+I liked this class. It was pretty low maintenance but also I took it remotely.
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor
+Probably my least favorite, but easiest, SI class I've taken. This class has a really low workload and ample time (1 week open everything) to complete the 3 exams throughout the semester. I found it really hard to attend lecture because I wasn't interested in the material, but the professor himself is entertaining!
+________________
+
+
+Julie Frary | Information Analysis & Applied Statistics Minor
+Really valuable information about project management, information systems, AI, etc. However, the instructor makes it extremely difficult to pay attention and attendance is not required. Course work is pretty light with only 2 assignments each week and exams are open note and online. 
+________________
+Juan Thompson | UX Design & Art and Design + Entrepreneurship Minor
+It seemed like most students hated this course/ thought it was BS but I absolutely loved it. The lectures are amazing. Prof Robert is a great public speaker and he’s constantly connecting lecture material to current events or case studies. He always brings up super interesting points on the very last slides of lecture. Prof Robert organizes his lectures so that they build on content from the previous one so if you skip lectures early in the semester I could see how the class becomes less engaging. Discussion for this class feels like busy work but I had friends in my section so I didn’t mind it.
+________________
+SI 311 - Special Topics in Information
+
+
+Workload: 
+Objective: 
+Structure: 
+
+
+Reviews: 
+Katie Lawton | Information Analysis & Math Minor
+SI 311 is amazing for anyone who is interested in sports analysis. Dean Finholt teaches this special topics course that covers basketball, football, and baseball analytics while giving you access to projects that are being worked on with University of Michigan athletic programs. I work on a project for the softball team. This course has taught me analytical skills as well as how to use Tableau which is a great skill to have. This course does require an application and an interview, but please reach out to me for help! Amazing course!!
+________________
+SI 315: Interpersonal & Psychological Implications of Social Media
+Workload: 
+Content: 
+Structure: 
+________________
+SI 320: Graphic Design
+Workload: Heavy
+Objective: Gain skills in Adobe graphic design software. Design theories, Photoshop, Illustrator
+Structure: Each homework is a graphic design project which makes up most of the points. There is a “midterm quiz” and final project. Lecture is 1/2 work time 1/2 instruction. Weekly labs + homework assignments, final project, and final quiz
+
+
+Reviews: 
+Kelley Sweitzer | UX Design & Computer Science Minor
+Unpopular opinion but I really liked this class! Be warned - it is a lot of work!! The instructors literally told us it is too much work for 3 credits so we got to skip the midterm because they felt bad. If you have never used Adobe before, it's quite the learning curve and you may struggle for a bit. But if you have, then you will probably be alright. I learned a lot of technical graphic design skills here and it has come in handy soooo many times. Lecture is also really interesting and teaches you about UX trends and basic visual design theory. As a non art major, this was so helpful! Take this elective earlier if you can or have space in your schedule! It makes for a couple of interesting portfolio pieces as well!
+________________
+
+
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+(Taken Fall 2020) Love/hate relationship with this class. It gave me a lot of great material for my portfolio which was helpful. I went into it already knowing Illustrator/Photoshop, but I still learned a lot of new shortcuts and material which was great. I had to work my ass off for an A, but it’s definitely attainable. You can redo your labs + homework assignments if you’re not satisfied with your grade which is also great. Take this as early as you can! 
+________________
+Anonymous | UX Design & Entrepreneurship Minor
+This class is great for learning how to navigate photoshop and illustrator! Also, through the homework assignments and labs, you can get a lot of great material for a portfolio. I would recommend taking this class with a lighter courseload because it is a lot of work! I spent upwards of 6-7 hours on some homework assignments and an additional couple of hours on the lab assignment. The professors and GSIs are really willing to help and will offer you feedback. You also get the opportunity to resubmit assignments using feedback from professors and/or GSIs, and I found this really helpful. 
+________________
+SI 330: Data Manipulation
+Workload: Moderate
+Objective: Learning how to use Pandas in Python and working with big data sets
+Structure: One assignment each week that you work on with a group and a midterm and final exam/project
+
+
+Reviews: 
+Brooke Powning | Information Analysis
+my favorite class ever. Coursera course on Data Manipulation taught my Christopher Brooks
+________________
+
+
+Katie Lawton | Information Analysis & Math Minor 
+This class is unnecessarily taught so horribly. The professor that teaches the class changes each semester. So there is no consistency from semester to semester. The information is important to learn, but is just not taught well.
+________________
+Alyssa Russell | Information Analysis & Interdisciplinary Astronomy
+Professor Tomkins is lowkey really bad. She doesn't explain things well and is rude about responding to questions (Half of the class dropped in the first week because she was so bad). The topics are super super interesting, definitely a coding-heavy class, fun projects and cool material. I really wish I had a better professor because this would be my favorite class if I did. Coding background is extremely helpful. 
+________________
+Maya Chalker | Information Analysis & Business Minor
+I took this remotely with Warren Li (a grad student) and it was horrible. Weekly homeworks took me SO long and Warren focused more on the entertainment aspect of lecture videos than explaining the content clearly. When I took it there were also so many hidden assignments that people didn't know about until it was almost too late. I don't think he's teaching the class anymore though so it can only be better.
+________________
+Julie Frary | Information Analysis & Applied Statistics Minor
+I really like the concept behind this class and what it’s suppose to teach you. The teacher, however, is one of the worst teachers I have ever had at Michigan. She was new to teaching the class and there is no structure whatsoever. The course load consists of Jupyter notebooks for each class due the following week, homeworks every other week, and one exam and final project. It is a required class for IA pathway, so you have to take it. 
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor 
+This is without a doubt THE best SI class I've taken. When I took the course, it was taught by Chris Teplovs (who also teaches SI 370) and he is the absolute goat. The class mainly focuses on the pandas library, as well as exploration into visualizations with matplotlib and a little bit of NLP. Homeworks were biweekly and very fair/manageable. The class culminates in an individual final data project that you have a ton of freedom with. Cannot say enough good things about how this class was run when I took it (I know some other profs for this class are kind of iffy so take what I say with a grain of salt).
+
+
+________________
+SI 334: Persuasion & Social Influence
+Workload: moderate
+Content: how to motivate, persuade, and influence others
+Structure: case studies, essay, homework assignment (not graded), midterm + final exam
+________________
+SI 335: Social Media in Organizations
+Workload: 
+Content: understand pros and cons of social media, learn to create engaging social media content
+Structure: weekly readings, reading reflection papers, client challenged assignment, case study analysis paper, individual paper or team project
+________________
+
+
+SI 339 Web Design, Development, and Accessibility
+Workload: Moderate-heavy
+Objective: Learning to use HTML, CSS, and JS
+Structure: Weekly assignments, quizzes, final portfolio
+
+
+Reviews: 
+Brooke Powning | Information Analysis
+Get started on your portfolio EARLY
+________________
+
+
+Katie Lawton | Information Analysis & Math Minor 
+Great class and amazing professor! Highly recommend taking your final project seriously, as it can actually be your portfolio or a project on your resume.
+________________
+
+
+Sydney Bruce | UX Design & Business Minor
+(Taken fall 2020) This is one of the SI core classes for all SI students (both UX and IA). I personally liked this class and felt like I learned a lot of real world skills. Knowing how to utilize HTML and CSS is beneficial to designers and IA students. It is not a work and they give endless opportunities to receive help and they have only weekly homeworks. I took the class with Colleen (a queen) and she is super easy going and pretty lenient when it comes to getting stuff done on time. 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+This is a fun class! The instructor Colleen is so nice and accommodating. Take this as soon as you can because it is useful knowledge and it's pretty easy.
+________________
+
+
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+(Taken Fall 2020) I actually really enjoyed this class! Knowing how to use HTML/CSS is really important, and I felt like I genuinely learned a lot. The class puts a big emphasis on accessibility which is also important and I appreciated it. Take the portfolio seriously so that you can make it good and put it on your real portfolio! Also would recommend taking this class as soon as possible.
+________________
+Julie Frary | Information Analysis & Applied Statistics Minor
+Loved this SI class!! The teacher is so awesome and willing to help. The information is all very applicable and the course allows you to create your portfolio as part of your final project. There are weekly quizzes and code due, but nothing too difficult. Also, it teaches mostly about the coding aspect of web design as opposed to the UX aspect of web design. 
+________________
+Alyssa Russell | Information Analysis & Interdisciplinary Astronomy
+I liked this class is lots of fun. I'm IA and not huge on design but I thought this was a fun way to learn design. I did the presentation at the end for extra credit and if you do that they grade less harshly imo.  
+________________
+Maya Chalker | Information Analysis & Business Minor
+I took this remotely with Colleen and she's a gem. The class itself is alright, homework isn't too bad, but if you go to optional class or discussion they do the homeworks with you so 10/10 would recommend going to optional meeting times (not many people do).
+________________
+Kelsey Peregord | Information Analysis & Applied Statistics Minor
+Colleen teaches this class and is such a sweetheart!! I found this class to be super informative and interesting. The beginning of the class is reading-heavy and then transitions into more time needed for homeworks and the final portfolio. The course staff are all super helpful and friendly. Love this course!! Take it early if you can!
+________________
+
+
+Juan Thompson | UX Design & Art and Design + Entrepreneurship Minor
+I'm taking the class now (Fall 2021) and it’s one of my favorite classes so far at Michigan. The grading scale is curved so you only needed an 85 in the class to get an A I think which is giving me a lot of wiggle room late in the semester. I heard that the github repo for hw submissions is public so you can see other students’ work/submissions...
+________________
+
+
+SI 340: Experiment Design and Analyses
+Workload: Heavy
+Content: Experimental research, lots of R
+Structure: Weekly Perusall readings, weekly homeworks, final paper, presentation of experiment design
+
+
+Review: 
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+This is the worst class I have ever taken; I dropped it halfway through. Like holy shit it’s so bad. The content is very Stats heavy and if you don’t know R super well it can be difficult. Lectures were Tu/Th and homeworks were due Friday at 5pm so you really had to learn the concepts quickly and apply them right away. Cannot explain how boring and horrible this class was. 
+________________
+SI 350: Citizen Interaction Design
+Workload: Heavy, but only 3 weeks
+Content: Hands on client based project, Work with public-sector client to create UX solution and deliverables.
+Structure: Weekly Perusall readings, weekly homeworks, final paper, presentation of experiment design. 3-week 3-credit intensive course in the Spring semester. Mostly projects and participation.
+
+
+Reviews: 
+Kelley Sweitzer | UX Design & Computer Science Minor
+I cannot recommend this class enough if you are new or just starting out in UX design. It's a hands-on client based project over the course of 3 weeks in the spring term, 3 credits so you meet like 5 hours a day, but so worth it. you get a solid UX project under your belt and a crash course in UX research if you have never taken it before. I used this as an "Experience" on my resume and landed my sophomore internship by talking about this project. I imagine this is a little less fun for people who have some experience already, but I enjoyed staying in Ann Arbor and taking this!
+________________
+SI 360: Succeeding @ Failing
+Workload: Heavy
+Objective: Learning about when businesses/startups went wrong
+Structure: Mostly essays and reading assignments with occasional quizzes
+
+
+Reviews: 
+Sydney Bruce | UX Design & Business Minor
+(Taking winter 2021) Unfortunately this series of classes are discontinued after this semester :( 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+(I think this class is being discontinued after this semester) Oh boy I have a love-hate relationship with succeeding @ failing lmao. Walt is the instructor and CEO of this class and some people find him inspiring/interesting/etc. but some find him annoying and condescending bordering on offensive. I fall in the latter category.... but this class still definitely taught me so much. I think some entrepreneurship classes are lowkey delusional but this gave me such a good crash course on the tech industry and business strategy basics I had never learned before. There are tons of group projects and presentations, but it's all gamified so you know you will get an A if you do the work. I got way better at public speaking and teamwork from this class. I took it as a sophomore so it was a really critical time for me, too. Lots of life lessons to learn in this class, at the end of the day it's just entertaining to show up to class. Walt is always an engaging speaker and you'll always walk out learning something new.
+________________
+
+
+Brooke Powning | Information Analysis
+It’s a gameful course so get ahead early and build a relationship with Walt!
+________________
+Julie Frary | Information Analysis & Applied Statistics Minor
+Very interesting and applicable class. The instructor is awesome and has a lot of valuable information to share. The class itself is a game point system, so your grade reflects how many assignments you complete. The assignments are too difficult and it’s nice because you can take off a week if you’re too busy. 
+________________
+SI 364: Building Data-Driven Applications
+Workload: Light - Moderate
+Objective: Use Django to understand basic fullstack web application frameworks. Introduction to web applications, HTML templating, APIs, SQL, Model-View-Controller, database design
+Structure: There’s a midterm and final, both are trivial. No mandatory projects. Homework modules make up majority of points. Weekly assignments
+
+
+Reviews: 
+Sydney Bruce | UX Design & Business Minor
+(taken winter 2020) This is one of the core UX pathway classes. This class is unfortunately offered at the worst time (always on Friday's early in the morning), but it is also only once a week which makes it not so bad. The class is relatively easy and touches on a lot of stuff that crosses over in 339. It is more so focused on code organization and not so much on actual code writing. The work load is light and it is gamification style so you earn points based on what you want to complete. 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+This class is kind of a running joke. I imagine if you put a lot of effort and time into it, you could learn a lot, but the reality of it is all of the homework is copy-paste or rote memorization and very little conceptual knowledge. Since it's primarily online and attendance isn't mandatory, it can be done with extremely low effort. Both the midterm and the final are easy. My advice is take it with a few other friends so you have people to commiserate with and remind each other of deadlines. If you want to actually build apps, take EECS 485 or do some personal projects.
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor 
+This class is absolutely useless. Unless you are UX and have to take it to graduate, STAY AWAY. It sounds super cool and like you will learn a lot, but I walked away having gained nothing. You can never go to lecture or discussion the whole semester and get an A (so I guess if you're looking for an easy filler class this is it). This class is known for completing assignments with copy-and-paste and not really learning anything.
+
+
+________________
+SI 370: Data Exploration
+Workload: Moderate
+Objective: Exploratory/more advanced version of 330
+Structure: homeworks due every 2ish weeks, easy reading quizzes, a large group project at the end of the semester, Jupyter notebook assignments, group projects, quizzes, final report
+
+
+Reviews:
+Maya Chalker | Information Analysis & Business Minor
+Chris Teplovs is a really great teacher. The content is more challenging but his lecture style is really helpful and I feel prepared for the homework assignments (even if they do take a decent amount of time).
+________________
+Katie Lawton | Information Analysis & Math Minor 
+Great class! The professor is amazing. The class is taught flipped (which I usually hate), but I really enjoy learning the material in the way. The class is challenging but not impossible. 
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor 
+This class is the next step up from SI 330 and teaches you about seaborn, machine learning, and a little more NLP. It's a flipped classroom so you watch short lecture videos at home and practice in class with examples. It's taught by Chris Teplovs (absolute SI king) and is really enjoyable if you like SI 330 as well. There are biweekly-ish homeworks and a final group data project.
+
+
+________________
+
+
+SI 388: Putting the H in HCI
+Workload: Light
+Objective: Apply human biological, psychological, and social theories to UX design. How psychology + social research impact UX design
+Structure: Most of the class is group work, readings, and discussion posts. (Note: subject to change post-covid), reading assignments, case study engagement, group work
+
+
+Reviews: 
+Sydney Bruce | UX Design & Business Minor
+(Taken Fall 2020) This is a core UX pathway class. This class is basically a marketing/psychology class. It puts a lot of design concepts into perspective and is helpful when it comes to the specifics of design. You learn a lot of UX lingo that is helpful to understand and the class is fun. You have fun in class design assignments and the workload is really light.
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+For me this class is just so forgettable........ I personally hated it because it was a COVID semester and I was really going through it in my personal life and the last thing I wanted to do is tune into a lecture where there were Zoom breakout room problems every 5 seconds. The content was really interesting and fresh compared to some of the other courses I've taken and I wish I had spent more time on the readings and material. It goes into more psychological and social research and how that impacts UX and delves into the empirical/science side of things much more. I really did the bare minimum because it was really easy to get an A, but wish I had tried harder. Hopefully it's more engaging in the in-person environment.
+________________
+
+
+Juan Thompson | UX Design & Art and Design + Entrepreneurship Minor
+The content is interesting but I found prof Hui’s online lectures to be pretty boring. The weekly perusall reading assignments are long so most students skim and find random paragraphs to leave comments on to get credit for homework. This course was easy to coast by and get an A. 
+
+
+
+
+________________
+SI 405 & SI 407: IA & UX Capstones
+Workload: Light
+Objective: Provide you with real world experience working with a client
+Structure: Class activities, class reflection, team assignments
+
+
+Reviews: 
+Kelley Sweitzer | UX Design & Computer Science Minor
+The UX capstone ...... okay where do I begin. This is the first half so you spend literally the. whole. semester. planning out what you are doing in the next semester. First, you are randomly assigned a group and then stuck with them FOR A WHOLE YEAR. not just one semester. TWO SEMESTERS. Then, you get assigned a project based on a survey you fill out. Spend a lot of time thinking about the type of project you want! I got matched with a nonprofit, which I was happy about because if I'm doing free labor for them I would rather support a nonprofit than a corporation/startup that should literally just pay real employees to do this work. But hey, whatever floats your boat! Anyway, this class is a lot of just writing reports and group work. You won't do any actual research or implementation until the second semester.
+________________
+Maya Chalker | Information Analysis & Business Minor
+You won't trust that you'll get a fine grade in the end because of the way that they grade but trust the process and you'll be fine. Not really much work outside of class other than client meetings.
+________________
+
+
+Katie Lawton | Information Analysis & Math Minor 
+Prep course for the capstone. Make sure to develop a good relationship with your group and client as that will play a large role when taking 485 in the following semester. 
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor 
+This class is the first semester of the capstone course and preps you to implement your solution next semester in SI 485/487. Only 2 credits so low workload. The main point of this class is to match you with your client and create a plan (in 3 iterations) in consultation with your client for next semester. I took the class with Scott Tenbrink and he's awesome!!
+
+
+
+
+________________
+
+
+SI 422: Needs Assessment and Usability Evaluation
+Workload: Moderate-Heavy
+Objective: Employ interaction design practices through prototype implementation. Learning key fundamentals UX research principles and methods
+Structure: Most of this class revolves around a single group project. Some assignments are individual and some are group assignments. There are a handful of other points sprinkled throughout. No exams! Weekly assignments, sometimes to be completed with a group
+
+
+Reviews: 
+Sydney Bruce | UX Design & Business Minor
+(Taken Fall 2020) This is a core UX class. This gives a deeper look into the research aspects of UX Design. This class is especially useful for people who are considering going into UX Research. I enjoyed this class and think I walked away with a lot of useful information as well as items I could put on my portfolio. This class does have a heavier workload and involves a good amount of group work which makes it a little easier. It also involves a good amount of writing as you have to conduct research and write a research report based on the study and conclusions you drew from the study. This is very helpful to understanding the entire UX Design process. (I recommend taking this before you take SI 482) 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+This is the first of many user research based courses in SI. It's somewhat project-based and you will work with a team on an idea over the second half of the semester - so pick good teammates! This is a really helpful class if you have never been exposed to UX research before. If that's the case, take it ASAP! If you already have some exposure, it will be a pretty easy class for you which is great. My advice in this class is get friendly with your GSI because that's who you're going to be communicating with primarily. The workload is pretty high, but it's mostly writing and splitting things up between groupmates.
+________________
+
+
+Courtney Fortin | UX Design & Business + Digital Studies Minor
+(Taken Winter 2021) I wish I took this earlier!! The class workload is relatively heavy, but they grade very easily and it’s mostly just a matter of turning it in. I had Gabi Marcu as a professor and she is so fucking awesome; literally the best professor I’ve ever had. She makes class really enjoyable and brings in a ton of guest speakers who are willing to connect + network with you which is also a plus. Take advantage of these speakers and message them on LinkedIn after + connect.
+________________
+Anonymous | UX Design & Information Analysis
+Taken Fall 2021. This course is very heavy in terms of work load, but the grading of the assignments is very lenient. I didn't like that the assignments are due at weird times like 8 PM on Sundays or 12 PM on Wednesdays. I did like that the class is game based and we can choose which assignment to complete in order to get our ideal grade. I would not recommend taking it with SI 339 because both classes require a lot of attention. I took the class with Gabriel Marcu, she's okay, but she's not a very memorable professor. Her lecture time isn't spent actually teaching, she uses it as office hour time and she posts the lecture videos online. Overall, I rate the class 7/10 because the things we learn are actually important for user research. 
+________________
+Anne George | Computer Science Engineering
+Pretty easy! Mostly busy work, required discussions and you basically get to decide the grade you want by doing certain assignments. 
+Do it with a team you know!! It’s so much more fun + other kids in that class are randomly trying very very hard for no reason and me Manasi Grace Rohan and Bree barely try and get the same results so save yourself some effort 
+You’re almost guaranteed full points on an assignment as long as you turn it in and it looks like you’ve attempted. 
+I am not a fan of the professor she gives me such bad vibes 😵‍💫
+________________
+Grace Garmo | UX Design
+I genuinely hated this class with every fiber of my being but it's required for UX so 😀 it sucks bc the content itself is actually important and decently interesting but the class structure/instructors are dumb asf (fuck u gabi) and literally so bad (it’s the system where you reach a point threshold). hopefully it looks better in the future bc this was the first semester that they changed the class and from what i heard it's WAYY more work than it was in the past. imo it was very misleading that you could choose your grade with the assignments you do bc grading is so inconsistent so my #1 piece of advice is to do every single assignment even if they tell you not to (or at least as many as you can) it’s much better to play it safe. overall i hated this class so much and i would literally throw hands at the teacher if i ever saw her again
+________________
+SI 425: Intro to User Modeling
+Workload: Light
+Objective: Learn to model user behavior from economics and computer science
+Structure: Weekly homeworks and group case study portions, 2 presentations on assigned case studies, midterm, and final
+
+
+Reviews:
+Alyssa Russell | Information Analysis & Interdisciplinary Astronomy
+This is basically behavioral econ which I think is really cool but might not be everyone's cup of tea. Find some solid people in the class to work with because you will work with people A LOT. Not too high of a work load. Exams are long but not particularly difficult. 
+________________
+
+
+Maya Chalker | Information Analysis & Business Minor
+This class should be an economics class because I'm more than halfway through it and am still confused as to where the user modeling comes in. However, it's not a lot of work, the grading is generous, and the exams and homeworks are very straightforward.
+________________
+
+
+Kelsey Peregord | Information Analysis & Applied Statistics Minor 
+This class is essentially behavioral econ and honestly isn't super enjoyable or applicable. It's pretty easy but the prof can be confusing at times (but is super sweet)! There is a wide range of types of weekly homework assignments that also involve group work (analyzing case studies together). You present 1 case study with your group at some point in the semester and have 2 exams.
+________________
+SI 429: Online Communities
+Workload: Light
+Objective: Develop an understanding of theories/practices of online communities, what makes them successful/fail
+Structure: Weekly readings, design projects, reading reflections, class participation
+
+
+Reviews: 
+Katie Lawton | Information Analysis & Math Minor 
+If you take any electives you must take a course with Professor Sarita Schoenbeck! She is amazing and doing such cool work in the field. She teaches this course and SI 431. I have taken both and have enjoyed the content so far. The class consists of weekly readings and write ups and some projects throughout. It is a perfect course to fit with a busy schedule.
+________________
+SI 430: Information Technology & Global Society
+Workload: Moderate-Heavy
+Objective: Develop a better understanding of technology’s impact on society, understand current and emerging IT systems and evaluate their impact
+Structure: Reading responses, small assignments, three short statements, midterm
+________________
+
+
+SI 431: Algorithms & Society
+Workload: Moderate
+Objective: Learn about the impacts of algorithms on society
+Structure: Weekly reading assignments and three short papers (about 1000 words)
+
+
+Reviews: 
+Katie Lawton | Information Analysis & Math Minor 
+If you take any electives you must take a course with Professor Sarita Schoenbeck! She is amazing and doing such cool work in the field. She teaches this course and SI 429. I have taken both and have enjoyed the content so far. The class consists of weekly readings and write ups and some projects through out. It is a perfect course to fit with a busy schedule. The topics are super relevant to anyone beginning their careers in the tech field.
+________________
+
+
+Brooke Powning | Information Analysis
+The assignments are so easy if you just pay attention in lecture. Awesome guest lecturers!
+
+
+________________
+SI 460: Modeling Success: Entrepreneurship in Info Age
+Workload: Moderate
+Objective: 
+Structure: Learn and apply lean startup principles, evaluate entrepreneurial ventures, generate business-like entrepreneurial solutions
+
+
+Reviews: 
+Kelley Sweitzer | UX Design & Computer Science Minor
+This is the last class in the 'succeeding at failing' series following SI 360. I feel the same way about this class as I do about 360 - depends heavily on how you like Walt. Lots of group projects, presentations, etc. I think it's a solid class and an easy A, entertaining to show up to lecture every day.
+
+
+________________
+SI 482: Interaction Design Studio
+Workload: Moderate
+Objective: Walk thru the entire design cycle and create a technology solution
+Structure: Weekly assignments that all contribute to a final project, reading responses, final project, presentation
+
+
+Reviews: 
+Sydney Bruce | UX Design & Business Minor
+(Taken Fall 2020) This is definitely one of the best preparations for real world design and you will walk away with a full portfolio piece if you actively participate. You are placed into groups and create a creative technology solution/product. Throughout the semester you walk through all the steps of the design process for start to finish and it really puts it into perspective. Although it does require a heavier workload it was very beneficial to see the design process put together. I recommend taking SI 422 before this class as it will make it a lot easier to understand the research steps. 
+________________
+
+
+Kelley Sweitzer | UX Design & Computer Science Minor
+So at the beginning of the semester, you will be randomly assigned a group and be expected to work with them on a ux project from start to finish for the entire semester. I personally loved this class only because I had a great group of people for my project!! But if you get a bad group then good luck charlie..... JK.... but seriously. I found the lecture to be basically a re-hash of 422 with a little more of a product lens and less of an academia/researchy perspective, but it was useful nonetheless. There were some pretty interesting readings, at least! Take all of this with a grain of salt since I took this class virtually.
+________________
+
+
+Juan Thompson | UX Design & Art and Design + Entrepreneurship Minor
+Make sure you have friends in your discussion section. You team up with discussion classmates week 1 and build an app with them throughout the semester. This class sucks if you’re with group mates who don’t care about the class or are frustrating to work with. I’d recommend putting your best effort into group assignments because the app you build ends up being a great portfolio piece. 
+
+
+________________
+
+
+SI 485: Information Analytics Project
+Workload: 
+Content: Create a data-centered project that includes requirements analysis, data manipulation and analysis, and evaluation needs of a client
+Structure: Written progress reports biweekly, midterm and final reports, client outputs
+________________
+SI 564: SQL and Databases
+Workload: 
+Content: 
+Structure: 
+
+
+Reviews: 
+Katie Lawton | Information Analysis & Math Minor
+SI 564 is a must for IA people. It is a 1.5 credit course on SQL. I have already learned so much in the course (knowledge that helped me land a summer internship!!). The professor is amazing, the content is really important to know, and being only 1.5 credits it is a perfect course to fit into any schedule.
+________________
+Other SI Classes
+SI 300: Career/Intern Studio
+Julie Frary | Information Analysis & Applied Statistics Minor
+Definitely the most helpful SI class I have taken in terms of professional development. This class covers everything from resumes to interviews to internship opportunities. The teacher and TAs are all super willing to help and the class is very personalized to your internship search process.

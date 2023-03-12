@@ -1,0 +1,911 @@
+EECS Courses
+________________
+EECS 201: CS Pragmatics
+Workload: Light (1 credit)
+Objective: Git, Shells, terminal tricks, makefiles, debugging tools
+Structure: changes per semester
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took this class with Darden in Fall 2019. Was somewhat useful, but felt that it was too much work for a 1-credit class. Wouldn't really recommend. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Winter 2020 with Prof Nguyen. I personally felt like the class was super poorly run and I didn't feel supported by the course staff at all. I went to OH multiple times to ask for help on the advanced assignments but was simply told that the advanced assignments required you to do a lot of research on your own and that's about all. This class is definitely way too much work for a 1 credit and though the content seems like useful tips and tricks, the class's poor structure makes it hard to actually follow along and not bs the assignments. I ended up learning everything the class covered over the summer just by working on a random personal project and through my internship, so unless you have a light schedule and are super committed to trying your hardest for this class, don't take it. Worth noting that if you put in the work it's pretty much a free A+ though because all you have to do is finish ENOUGH of the assignments to get enough points (you probably need to do like 75% of the homeworks and 10% of the advanced assignments).
+________________
+
+
+Sahil Patel | Computer Science Engineering
+Took this class with Darden when it was still eecs 398. I enjoyed it at the time, but felt it was at least 2 credits of work (def more than 1). I think reviews for the class are mixed, but I felt like I learned a lot personally. I think what you put in is what you get out from this class, because it is (or was at the time I took it) fairly easy to coast to an A. Nothing you can’t learn on your own.
+________________
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+Easy but too much work for a 1 credit course. Probably would avoid unless you rly need one credit. You can learn all the stuff on your own anyways.
+________________
+Anonymous | Computer Science Engineering
+A lot more work than a 1 credit class. Wouldn't recommend unless you seriously want to learn the stuff. 
+________________
+Anonymous | Computer Science Engineering 
+Before taking, thought it would be a useful class to learn about git, makefiles, etc. but the assignments were kind of weird and off track and I didn't feel like I learned much. It is an easy A if you do the assignments although it does seem like the work is much more than what a 1-credit class should be.
+________________
+Anonymous | Computer Science - LSA
+Didn't particularly like this class, thought it was too technical and could really find a use for the commands and things we're learning while taking the course. It is tedious, but you do learn things - what you put into the class is what you get out. It could prove helpful when working industry. I'd also say that it's a 1 credit class, but I felt like it was 2 credits because of the work.
+________________
+Anonymous | Computer Science - LSA & Education Minor
+F21 This class is actually really useful, but best taken if you have time to actually internalize what you are learning. Professor so nice, love brandon
+________________
+EECS 203: Discrete Mathematics
+Workload: Moderate
+Content: Useful math applied in software engineering, probability, proofs, logical reasoning
+Structure: Weekly Homeworks, Lecture Assignments, Final, Midterm
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took in Fall 2018. Loved this class, because I had no experience with Discrete math before, and really enjoyed the new way of thinking. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Fall 2019 with Prof Graetz and Diaz. As someone who was always interested in math but most recently familiar with calculus, this class was a great introduction to “a different side” of mathematics. I really liked the emphasis on logical reasoning and liked the brief intro to proofs that they covered. HW is hard though so make sure you go to OH.
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+my least favorite eecs class, don't be discouraged by doing poorly here, most schools split this course up into different courses (probstat, combinatorics, etc)
+________________
+
+
+Evan Weissburg | Computer Science Engineering & Mathematics Minor
+Cool course, bit scattered though as each professor adds their own content when they teach the course. I liked Emily Graetz, GOATED.
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taken Fall 2019. Unpopular opinion, but I really enjoyed this class. I felt like this was a class that really taught me how to study/learn in college (before my study strategies were very flawed). In my opinion, Emily Graetz is the best professor I've had. I went to their office hours (granted I was very nervous going into it) and they were so so helpful, they took the time to make sure I fully understood the material and was walking away with no more questions. You definitely have to put in work to understand the material, but I thought it was very rewarding. Regardless if I won't use the material directly in my day-to-day tech job, I thought this class taught me some very important topics and overall taught me a lot about working smartly. 
+________________
+
+
+Fizza Ahmed | Data Science - LSA
+if you like math you'll like this class. i really liked it! otherwise, just find a good group to work on hw with and struggle together
+________________
+
+
+Nish Reddy | Civil Engineering & Computer Science Minor
+Taking during Winter 20, Fall 20, and Winter 21. Personally not my favorite (clearly), and to me it seems like one of those classes where you either love it or you hate it. That being said, you still have to do the work regardless, and for me personally, going even further than the extra mile was required. There's definitely no shame in repeating this course, as close to half of the class seems to be people who have already taken it at least once, so if you struggle with it at first, you've got a whole community there alongside you. Make sure to learn from your mistakes though and really dig into why you got things wrong on homework and exams, because those exams will really test your foundation of knowledge, not just being able to answer the same type of question over and over again with different numbers. Office hours are a huge help, especially if you find a GSI or IA you really work well with. Personally for me, going to the same IA's office hours every week has been as close to "tutoring" as I can get, and that has paid off big time. 
+________________
+
+
+Kelley Sweitzer | School of Information - UI/UX Design & Computer Science Minor
+The 203/280/recruiting trifecta is not a good time but everyone has their own comfort level and some can handle it. I am not one of those people! I failed 203 but it was okay!! My best advice is to find a group of people you trust (with at least one person who really knows what they're doing and can bail you out on the homework in exchange for free pizza or something lmao) and push office hours and study together as much as possible. You'll make it through with the help of friends! It's not easy to do alone!!
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+Not a big fan, it's wicked hard and not as interesting as 376. Great to take alongside 280 though, it'll be a full semester but very doable.
+________________
+
+
+Maya Subramanian | Computer Science - LSA
+I did not enjoy this class AT ALL. Don't let it discourage you from pursuing a CS degree. It's nothing like industry/upper levels. It's ok to retake it if you have to.
+________________
+Anne George | Computer Science Engineering
+DO THE HOMEWORK!! it is so easy to fall into the trap of "working" with friends, but trust me if you do it yourself you'll be in a much better shape. Or going to OH is very helpful the IAs or other students there help a ton! Exams are tough! don't underestimate them!! Practice exams are definitely the most helpful study tool for that class! Also there really isn't any reason to use LaTex! 
+________________
+Rithik Aggarwal | Computer Science - LSA, BBA
+Hot take, I enjoyed this class. I took this winter freshman year with Graetz and I think Graetz the only professor you should be going to. Graetz is really an interesting person (Graetz always comes barefoot to class) but Graetz explains concepts in a really digestible manner. I didn't even consider going to anyone else and I don't think you should either. My advice for this class is to use office hours constantly. The IAs are there to help you work through the logic of difficult problems and help you come to a solution. I remember sitting in the UGLI basement for like 5 hours straight just doing homework and waiting for the IA to go over the solution and it was extremely helpful because I would not have come to half of those solutions on my own. Beyond that, throw EVERYTHING onto your cheat sheet for the exams. They're pretty difficult so having example problems for each concept is really helpful to model your answers off of.
+________________
+Andrew Li | Computer Engineering
+This class in my experience has been very hit or miss. I think it clicks with some and it absolutely does not click with others. The most important thing is you're most likely going to be approaching this course a bit differently than a project based cs course. 
+The "required" workload is not much, but for some people it won't be enough. If you find yourself not understanding a concept, make sure you look/ask for more practice. For lack of a better term, it's sort of reality that some of you will have to spend a lot more time than others on this class. But that's true for every class:)
+________________
+
+
+Lucas Felpi | Computer Science - LSA
+Taken this class Winter 2020. Personally did not enjoy the class, I got very stressed to complete the weekly homeworks and exams. The concepts did not feel like they were going to be useful in CS, and were very hard to grasp at first. You get used to the workload, but overall not a good experience. Take it with easy classes and set some time to work on the homework because it takes a while to do the assignments! 
+________________
+Anonymous | Computer Science Engineering & Creative Writing Minor
+This class was really not for me, I just didn’t enjoy the material. This class is mainly homework based, which is why it’s easy to collaborate with others and do well on the homeworks. But I strongly recommend attempting the homeworks yourself first because the material isn’t the type that you can just look at and understand, it’s all about practice. Graetz is also the best professor, and I’d recommend watching lecture at your own pace because they move pretty fast and it’s better to understand at your own speed than try and keep up with them. 
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I took this with Emily Graetz and honestly enjoyed it (definitely more than I am enjoying 376). I wish I took 376 directly after taking 203 because writing proofs and thinking in those types of math classes are definitely a practiced skill and I felt like I had to relearn it all for 376.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+I thought this class was a nice logic class, and it helps to try to visualize all the problems out on a whiteboard or something. Going to OH helps as they tend to walk through the problems. Professor Graetz was very clear and fun. 
+________________
+Anonymous | Economics & Complex Systems Minor
+Unless you’re confident, don’t take this alongside 280. This requires hours upon hours of commitment, studying, and understanding. Be sure to balance yourself and your schedule if you want to take this beast on. 
+________________
+Ishan Thaker | Computer Science Engineering & Economics Minor
+Not a terrible course, but I also didn't enjoy it. This was my first EECS class in college, and I took it online fall semester during COVID so things were a bit different. I personally think the key in this class is so understand everything conceptually, and not worrying too much about doing as many problems as you can when it comes to studying for exams. The homeworks are sometimes really hard, and OH will be your best bet to figure that out. Graetz is a great prof, and the IAs are good too.
+________________
+Anonymous | Computer Science Engineering 
+Just start everything early and the class shouldn't be terrible. It's just considered hard because it's probably the first hard class you would take at U-M, so just manage expectations and work accordingly.
+________________
+
+
+Salil Nadkarni | Computer Science Engineering & Math Minor
+Took it F19, IA for F21. This class has a bad rep but has changed (imo for the better) in recent years. They've partnered with the FCI to try to improve the class including: reducing the amount of content taught, reorganizing content to group similar content more, providing additional resources to students who've struggled in the past, etc. It's still a challenging class, but definitely doable if you attempt the HW's by yourself or with others (even if it's at OH or with friends) and keep reasonably up to date with lecture. It's still a lot of content, so getting behind can be tough to recover from. I also agree that 203 is not representative of all of CS: you don't have to love it to finish your degree, you just need to get through it and I truly do believe everyone is capable of getting through it. But if you like problem solving and learning an entirely new lens to look at math, 203 (despite its flaws) does a really good job at doing both.
+________________
+EECS 280: Intro to Programming and Data Structures
+Workload: Moderate
+Content: Larger coding projects than EECS 183 or ENGR 101, important concepts in C++ (pointers, polymorphism, etc.), elementary data structures
+Structure: 5 projects (4 partner-based), Weekly Labs, Midterm, Final
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took in Winter 2019. Didn't really enjoy this class too much, because I felt like we were pigeonholed into a specific coding solution. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Fall 2019 with Prof Beaumont/Fu/Hamilton/Saleem. This was my first coding class at Michigan plus I was a first semester freshman so I didn't really have my shit together in terms of going to OH/keeping up with lectures but I thought it was fine. I probably watched 5 lectures total throughout the semester - I just read the notes they post on the website because they're a more concise version of the lecture slides. In hindsight this was probably a bad idea because 280 sets your foundation for all future classes you take (I'm realizing this semester in a different class that I didn't learn inheritance/polymorphism properly and had to re-learn it) so definitely pay attention. I didn't like the exams (particularly the MC portion) because they just required memorization and regurgitation of key concepts. I took it with 203 and thought the combination worked out well. 
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+boring and lame AG
+________________
+
+
+Evna Weissburg | Computer Science Engineering & Mathematics Minor
+If you have programmed before, this course shouldn't be too hard. I'd recommend doing this one without a partner because you will probably find that you work better alone on smaller-scale stuff (feel free to try one of them with a friend to see this for yourself!). This will also build confidence.
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taken Winter 2019. I felt like a very beginner coder going into the class, and learned so much by the end. 
+________________
+
+
+Nish Reddy | Civil Engineering & Computer Science Minor
+Taken during Fall 2020, absolutely loved it even though I switched out of CS right after taking it. It still remains one of my favorite classes I've taken here at U-M, and is a great class if you really apply yourself and think deeper than just what's required of you. As with any EECS class, start projects early, stay on top of lab deadlines, and study early for exams, but ESPECIALLY in this class, ask questions and go to office hours if you want a better understanding of things. The staff is excellent, and your knowledge of computer science will expand greatly if you really take advantage of the knowledgable staff. 
+________________
+
+
+Kelley Sweitzer | School of Information - UI/UX Design & Computer Science Minor
+Get a good partner!!! But I liked this class and thought it was really thorough. The projects are definitely hard relative to what you're used to, but it's just a sample of what the rest of EECS courses look like...... Just don't fall victim to the "hype" and impostor syndrome - people are at a lot of different skill levels and if you stress out about not being as far along as other people on the projects it can be hard to perform. You gotta just go at your own pace and don't worry about the haters. I felt like as a CS minor, I never really needed to remember all the specifics abt memory, pointers, low levels of abstraction in the next few classes. But it was still really good to know and I'm glad I learned about it. 
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+This course made me become a CS major! Take it as soon as you can, it's really good for non CS majors too, can't recommend enough.
+________________
+Maya Subramanian | Computer Science - LSA
+I did not enjoy this class. Don't let it discourage you from pursuing a CS degree.
+________________
+Anne George | Computer Science Engineering
+dont underestimate project 1 i treated it as a joke and didn't do as good as I could have! also practice exams are your best friend for midterm/final, they try to do a ton of trick questions so read carefully! Also, if you choose to partner on projects make sure you work on it together or go over the code they wrote with them so you understand all parts! 
+________________
+Rithik Aggarwal | Computer Science - LSA, BBA
+I took this class spring term after my freshman year with Juett and Kloosterman as my professors. 280 does not go wrong with professors - Juett, Kloosterman, DeOrio, Beaumont are all good (I'm sure there are more but I can't think of them). This was one of my favorite classes because it was the first time where I feel like I became a real programmer. The course eases you into starting to write your own code (the first project was like a cookies.cpp project from EECS 183) and it progressively got more difficult (they stopped giving you as much starter code) to prepare you for 281. This class is definitely something you can take along side 203 and all of the concepts taught are definitely important and are even pervasive in my upper level endeavors today. Highly highly highly recommend hitting office hours - the IAs are there to help you debug and fix your code. Any problems you're encountering they've probably encounters 5 times prior. Also, this should be your weeder course - if you don't do well in this I think it should be a sign to potentially reconsider progressing into more advanced workloads like 281.
+________________
+Andrew Li | Computer Engineering
+This class is definitely a big step up from ENGR101 or EECS183. That being said, it's not terrible. I believe the course is extremely manageable if you work on the projects for a couple or few hours each day. 
+Labs are easy, I can't remember a single one taking more than a couple hours AT MAX.
+________________
+Lucas Felpi | Computer Science - LSA
+Taken this class Winter 2020. I really enjoyed the projects and labs, but exams can be a hard time. Also be mindful to not get behind because there is a lot being covered :).
+________________
+Anonymous | Computer Science Engineering & Creative Writing Minor
+This class wasn’t bad - The main thing is the switch from having preformed functions and structure to being responsible for the majority of the code and how it works. I think Euchre is the first time this happens, where you’re responsible for the driver function, and I can’t stress enough to start this project as soon as possible. I think 50% of the project is the first 3 files, and main.cpp is the majority of the project and what your main focus should be on. Once you make it through Euchre, you’re set. The exams aren’t too difficult if you do all the practice exams and keep up with lecture.
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I took this class with Kevin Fu who is no longer teaching (I think he's the head of security for some government administration) but absolutely loved it.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+I thought this course was harder than 281, you get a more indepth look into C++. Professor Hamitlon was great. Take this alongside 203 (math + cs combo). The test questions often try to trick you, so be slightly wary of "easy questions"
+________________
+Anonymous | Economics & Complex Systems Minor
+Total filter class. Don’t wait to start projects. Be committed and vigilant when working, studying, and performing.
+________________
+Michelle Liu | Computer Science Engineering 
+i love this course 10/10 not biased at all because i'm an IA. start projects early! office hours are super packed closer to a deadline (the max wait i've seen was like 2.5 hours). I love james juett and beaumont they really do care about students
+________________
+Ishan Thaker | Computer Science Engineering & Economics Minor
+I didn't like this course too much. This was my only EECS class in the winter. I took it during COVID so things might be different, but I didn't like the lecture structure too much and I thought they made the exams way more difficult than in the past. The labs are boring, but the projects aren't too bad at all. The IAs help a lot, and it's important to have a solid plan for the projects (especially Euchre). Other than that, teachers are solid.
+________________
+EECS 281: Data Structures & Algorithms
+Workload: Heavy
+Objective: Writing large projects with efficient code, no starter code, and solidifying understanding of DS&A
+Structure: 4 projects, 10 weekly labs, midterm, final
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took in Spring 2019. Enjoyed this class and feel that it is somewhat overhyped in terms of time commitment. If you start the projects early enough (within the first two days), you should have no problem completing them. I am a big fan of taking this in the spring, because you are able to focus all of your effort/time into one class, rather than having to focus on multiple classes at once. A lot of people take this with EECS 376. I don't recommend taking it with EECS 370. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Winter 2020 with Prof Paoletti. I LOVED this class. It was the first time I felt like I was actually coding something substantial and not being babied. The projects weren't that bad imo: the videos Paoletti released literally walked through all the important design decisions so all you have to do is understand the high level structure and then implement efficiently. It's so important to pay attention in this class because it establishes a strong foundation for your CS education. I also thought the exams were pretty tricky but I preferred them to 280/other exams because these were more problem solving based and didn't require random memorization. It's really important to understand EVERY DETAIL about all the concepts you learn because the exams really test that. I took 281 with stats/eecs 201/humanities and I kind of wished I took it with something like 376 because I didn't feel super pushed academically (it worked out because I was pledging this semester and was busy from that and other student orgs). Would also highly recommend taking this during the spring semester/as early as possible because it's a gateway course that unlocks most upper levels.
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+great class
+________________
+
+
+Evan Weissburg | Computer Science Engineering & Mathematics Minor
+Great course, but can be challenging. Start the projects early and it should be ok.I would recommend doing Leetcode easy/medium practice problems for the final, since this will also help with future job interviews.
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taken Winter 2020. At the beginning of this class, I was very intimidated since this was my first experience 'coding from scratch' with no skeleton code. And I remember feeling very lost and unsure how to structure my code. I went to office hours a LOT (professor Darden was the goat) and the professors and IAs are very willing to help and want everyone to do well. I think this is the class that my computer science skills grew the most. 
+________________
+
+
+Fizza Ahmed | Data Science - LSA
+I really liked this class but it was a ton of work. I took in spring semester freshmen year when I had nothing else going on--if you have this opportunity, do it! It's also very useful for technical interviews so it's nice to have it done before recruiting sophomore year. Definitely make sure you devote enough time to this class to do it properly. You learn a ton about optimizing code and debugging.
+________________
+
+
+Christian Wong | Computer Science Engineering & Business + Sustainability Minor
+Solid class. Start projects early especially if you're not used to working independently. Don't slack off in this class cuz pretty much all the content is important. Taken with 376 and math 214, which is doable but I would not recommend it. yuh
+________________
+
+
+Kelley Sweitzer | School of Information - UI/UX Design & Computer Science Minor
+Everyone takes this so I'll keep it short. It's a really hard class imo, the project specs are helpful but the projects took me a really long time and I barely passed :D Good luck
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+Fantastic course, essential. Lots of work but if you're really grinding you can for sure knock out the projects in like under a week. All the profs are pretty solid, Darden especially.
+________________
+
+
+Maya Subramanian | Computer Science - LSA
+SPRING TERM 281 IS SUCH A MOVE! This class taught me how to write actually good code. Absolutely essential for Leetcode/recruiting. Take it as soon as you can and just PUT THE EFFORT IN, focus, and start projects early. Design your projects like CRAZY before writing things because it's likely unlike any coding classes you've experienced before. Talk through your project design at OH before starting to code. Find a study group for labs (the AVL lab sucks). Exams require actual comprehension of concepts... I recommend writing a study guide of ALL your notes + maximal.io
+________________
+Anne George | Computer Science Engineering
+Start projects early!! Write down when the project is released as well as the due date. Knowing its out really pushes you to get started and in general you don't wanna leave these projects until the last minute (but really, I know people said that in 280 and lower but these aren't as easy to finish in a couple of days). Also, go to proffice hours!! Mostly during the first few days after the project is released. The professors go through a lot and it really helps project comprehension, especially Prof. Paoletti (he would sometimes write out straight code/design ideas!!). I would literally go and sit there for the whole time, even when I didn't have questions and would come out with a better understanding and knowing exactly how to start 
+________________
+Rithik Aggarwal | Computer Science - LSA, BBA
+I took this class fall sophomore year and it was the only remotely difficult class I took that semester. The reason for this is that I knew this was information I was going to need to understand forwards and backwards in order to ace SWE interviews. The projects are definitely time intensive - this was the first time where all you get is test cases and you have to build a codebase from the ground up in order to get your test cases to pass. I highly recommend hitting proffice hours the first few days of the project, as they tend to go through the algorithms and data structures necessary for the process and walk you through logically how you should be approaching each solution. Then, what I did was rent out a study room with a few of my friends and we white boarded in great detail how we would approach each project, and then after 4-5 days I would begin implementation. This saved me a ton of time debugging, as we had thoroughly planned out our code so there was only pretty much semantical errors associated with my code. As far as the exams go, they're difficult. Obviously you'll study a lot but I highly recommend putting as much effort into getting a high grade on the projects so if you don't do well on the exam you'll still get a decent to good grade in the class.
+________________
+Andrew Li | Computer Engineering
+I struggled a lot with this class, but mainly because I was taking on a heavy workload. The class is absolutely manageable, and is best handled by working on the projects for a few hours each day. 
+Not much else to say, just don't procrastinate on projects like me.
+________________
+Lucas Felpi | Computer Science - LSA
+Taken this class Fall 2020. It is a very challenging class, with new layers of complexity in the projects, but you learn a lot out of it. I think it’s one of the classes that most made me sure of wanting to pursue a CS degree. Exams are very tough, be prepared for a short timeframe, a lot of problems, and study ahead of time! 
+________________
+Anonymous | Computer Science Engineering & Creative Writing Minor
+This is a hard class, in my opinion. The lectures are heavy and the projects take up a significant portion of your time, and that final is enough to make someone give up on EECS. Both Darden and Paoletti are great professors though, they are very helpful (when you can reach them) and if you start the projects early you should be set. One major thing is that office hours are terrible for this class, the queue can get so long and they might not even get to you. So I would recommend looking at the spec as soon as it comes out and going straight to office hours with any questions you might have because they fill up pretty quick closer to the deadline. 
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I just found this class to be overwhelming especially because I took it the semester we all got sent home. They gave us a two day extension on the project even though we all got sent home in the middle of it, and when my laptop broke they gave me a one day extension. I thought the IA's were extremely helpful and I really liked how they would have office hours to review the project as a whole.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+The 281 Professors are very clear and the IAs are great. It really makes you scrutinize your code more and helps improve your coding skills. Would recommend taking with 376 or 370. General advice - getting a full 100 on projects is great, but may not be worth the effort (the last few points can take up a substantial amount of time to earn, and its only a few points) so don't stress it as long as you learn the main concepts and can apply them to leetcode/interviews.
+________________
+Ishan Thaker | Computer Science Engineering & Economics Minor
+I took this class over the spring term and I really really enjoyed it. I felt like I became such a better and more independent programmer (because all projects are individual) and because it was spring, I learned how to manage my time really well too. Definitely was a grind (like 7-8 hours of EECS a day grind) but by far 281 projects are the most interesting and rewarding once you finish. Exams are hard, and some labs are brutal too but this class teaches you how tackle interviews and sets you up nicely for upper levels. Paoletti is one of the best profs I have had to date, so definitely take advantage of his proffice hours.w
+________________
+Anonymous | Computer Science Engineering 
+Really good class. Make sure you understand everything content wise in terms of lecture and projects because this should lay the foundation to do well in your interviews and potentially your career.
+________________
+Neil Gupta | Computer Science Engineering & Applied Statistics Minor
+Taken during Fall 2021. While in terms of pure content, I do not think the concepts are way too difficult. If you spend time studying and going to lecture, the struggle in this class is not through curriculum but through the amount of work you have to do. I took this class with 4 other classes as well and it was pretty difficult to get to lecture, so make sure you make time to go to lecture. Also there are normally 4 projects which are worth a lot of your grade so make sure to start early. Helpful to have friends taking the class with you so you can collaborate and study together. 
+________________
+
+
+Areeb Khan | Computer Science & UX Design 
+I took this class in fall 2022, and while many people talk about the workload being high, I personally didn't find it bad at all. I attribute this to doing all the 280 projects alone, which is something I highly recommend. Don't be too intimidated by the high workload comments. In my opinion, the most common reason for spending too much time on projects is coding before thinking through the entire project, which can lead to coding yourself into a corner. To succeed in this class, I recommend watching the videos, reading the specifications carefully, and thinking through your design decisions thoroughly before starting to code. By doing so, you should be able to complete the projects in a few days. tbh, the hardest part of this class was the exams. They can be tricky and require a deep conceptual understanding of the material, rather than just memorization of random facts. Overall, it was a great class, and i enjoyed the concepts a lot
+EECS 370: Computer Organization
+Workload: Moderate
+Objective: Learning the underlying hardware and software for programs
+Structure: 4 projects, 6 homeworks, final, midterm, lecture and discussion participation
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took with Brehob in Fall 2019. Did not enjoy this class too much, except for the last part of the course with virtual memory + caching. Don't go to Professor Mudge's lecture. Go to Hershal's office hours/discussion if you can -- he is one of the best GSIs in EECS. Projects in this class are very reasonable, and the workload is similar to EECS 280. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Fall 2020 with Prof Beaumont. I don't have super strong opinions about this class. It was definitely unique because of the emphasis on lower-level computing but I found the homeworks really tedious (and not too useful), the projects conceptually hard to understand but easy to implement, and the content boring (besides the second half of the semester with caching and virtual memory). Whenever I finished a project, I wouldn't have the sense of satisfaction I got from finishing projects for other classes that made me feel productive and like I learned something useful, I would just feel like I got nothing from the time I spent working on it. I took it with 376, which was a lot of work but doable. It was also nice having a balance between a theoretical class like 376 and a more low level class like 370.
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+fun and important concepts but kinda boring, dont really think theres a better way to teach it though. a lot more memorization/recall than other eecs courses.
+________________
+
+
+Evan Weissburg | Computer Science Engineering & Mathematics Minor
+Didn't love this course. I really don't like messing around with bits and pages and virtual pages, so I was annoyed with some of the projects, especially the linker. The homeworks can be obnoxious as well. Not the worst course in the world, but it's important to understand all the diagrams and such.
+________________
+
+
+Fizza Ahmed | Data Science - LSA
+I thought that there was just too much busy work. To be honest, I wasn't that interested in the material, so maybe that's why I wasn't the most hype about it. I thought the material wasn't too difficult until the last third. Projects were definitely a lot easier than 281, so it was a break for me after taking that class. 
+________________
+
+
+Christian Wong | Computer Science Engineering & Business + Sustainability Minor
+Solid class, I learned a lot of the concepts by just working on the projects. For me, working on the projects and understanding them helped a lot with doing the homework, but at the same time I don't learn anything in lectures so I relied almost solely on projects to learn the material (I'm just dumb and can't learn in lecture). Taken with 485 and I would say it's lower workload than 485 and 281, but some of the concepts and exam material is more difficult (they literally made us learn a new language during my final)
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+I didn't like this course, it's really hard and I'm also just not super interested in the content. I also took it along with 281 and a stats course though which was an extremely large mistake, so I perhaps would've enjoyed it more if I had not done that.
+________________
+Maya Subramanian | Computer Science - LSA
+DON'T TAKE THIS CLASS UNTIL AFTER YOU'VE TAKEN 281 (or take them concurrently). I did and it made 370 wayyyyy more difficult and discouraging. I literally got 0 points on one of the final exam questions. The entire semester I was riding the struggle bus. In retrospect, after knowing how to write good code / how memory works / etc, I bet I would've loved this class if I wasn't overwhelmed by my lack of knowledge / familiarity all the time. Hershal and Brehob are AWESOME though.
+________________
+Anne George | Computer Science Engineering
+I took 370 alongside 376. This is a relatively maintainable combination, but there were definitely a couple of stressful weeks where things coincided. Definitely recommend doing the homeworks! Very similar to exam format, even though its not worth a ton it was where I would learn to apply everything. Also, projects are definitely SHORTER than 281, but can be more difficult to think about. Also checkout the EECS 370 youtube channel, they don't advertise this but there are some very helpful videos on concepts taught by prior GSIs/IAs! Advice for assembly based test cases: straight up take chunks of code they've given in the homeworks or in lecture, usually catches most or sometimes all of the bugs! 
+________________
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took W19 alongside EECS 281. Do not take this combo!!! There are 9 projects between the two classes, and their deadlines frequently butt heads. I pulled so many all nighters just trying to finish things on time, and I wouldn't want anyone to go through the same thing. I'd recommend taking 218+376 or 370+376 instead. On it's own, the class is a little dry but not too difficult conceptually. The content is straightforward, and exam questions are the kind where once you know how to do that question type, you know how to do them going forward.
+________________
+Rithik Aggarwal | Computer Science - LSA, BBA
+This was one of my favorite classes in college (took it with Mark Brehob) just because all of the classes up to this point were about data structures and algorithms and getting you to be a good coder, but this was one of the first classes I took where it felt like I was learning real world applications of computers and from a very high level how they're built and how they work. I'd say the work load is comparable to 280 (definitely was not harder than 281) with the exception of the Linker Project and the Cache project (both towards the mid-end of the semester) that we're kinda difficult. This class is definitely doable along side a moderate upper level or 376, but I would recommend against taking it with 281 because I feel as if 281 is one of the most important classes you can take in order to sharpen your skills as a programmer and prepare for real world SWE interviews.
+________________
+Andrew Li | Computer Engineering
+I took EECS 270 before this, and taking that class before 370 is certainly a little bit helpful. The content you learn in 370 is mostly quite different, but the universe is the same, so you can pick up the jargon easier. 
+Now given that context, the class was a fairly light amount of work compared to most other coding/project based EECS courses. I'd say it's comparable to EECS 280 in workload. Ron Dreslinski was my favorite professor, I think he's amazing and he 100% cares about improving himself and he cares a lot about his students.
+________________
+Lucas Felpi | Computer Science - LSA
+Taken this class Winter 2021. What’s nice from it is not having efficiency and speed criteria in the autograder, but the projects can still be very challenging. It focuses on different types of problems than 281, 280, etc, but in an interesting way. Thought it was going to be easier than what it actually is, so would not recommend falling behind on the material. Beaumont is a great lecturer!
+________________
+Rob Gibbons | Computer Science Engineering & Chinese Minor
+This class is really annoying imo. Do rlly well on the early project esp proj 1 and write clean code bc you have to reuse your code!
+________________
+Anonymous | Computer Science Engineering & Creative Writing Minor
+I liked this class because the concepts weren’t hard at all to grasp, and as long as you kept your pace with lectures and practiced with the homeworks you should be completely fine for the exams. Projects weren’t nearly as bad in this class, keep aside 3-4 days and you’ll be more than fine. For professors, I usually watched Beaumont’s asynchronous lectures (no one can make me understand something like Beaumont can) but the professors for this class were actually really good - Jason Mars (unfortunately) knows what he’s doing and Reetu Das is great too. 
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I loved this class and really enjoyed the projects. Projects and homeworks accompanied the lecture material really well. I took it Fall, 2021 so it was completely online, and I think I got a lot out of it. I did not like the way they did discussion pods, however I think that was only important to that semester bc they had to cancel the midterm because crabster crashed. 
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+I really enjoyed this course, Professor Brehob was super funny and engaging in lecture. 
+Taking with 281 is a doable combo, and I would almost recommend it to better your time management skills. This course is built upon in 482, and if you really like this course would recommend taking 482 in the near future. 
+________________
+Michelle Liu | Computer Science Engineering 
+I am not a fan of low level programming at all but this class was do-able, the programming itself is not hard at all, you just need to figure out what you want to program and that's tough. actually pay attention in lectures I thought I could cruise by but nope the practice problems are really important so you can do the homework and the project and be prepared for the exams
+________________
+Anonymous | Computer Science Engineering & Applied Statistics Minor
+I took this class W21 and during the class I wasn't a huge fan but after taking the class I look back and realized I really liked it. It's not as heavy a workload as 281 and the projects aren't as much code but they are difficult to wrap your head around so definitely start early. Since you're learning about memory and stuff visualizing and drawing out how things work was super helpful for me when trying to understand concepts. Definitely a useful class!
+________________
+Anonymous | Computer Science - LSA, Economics
+Obviously if you are a CS major you are going to have to take this class, but I urge you to put a lot of thought into when you take it. The word among students is that this is one of the easier CS required courses in terms of material and it's something you can get through without that much effort. From my experience, I have found the exact opposite. The workload seems to be never ending. Just this past week we had a project due on Tuesday, an unbelievably difficult midterm that Thursday, and a large homework due the following Tuesday. The course staff is absolutely relentless with assignments and deadlines, so while the material may not actually be that hard it's very easy to fall behind. Also, the material is totally new relative to any prior CS courses and there's definitely a learning curve associated with that. Writing in assembly language is not like writing in the other languages we have looked at and this makes it extremely difficult at first while you adjust. Overall, I really, really don't like this class--I find the material extremely difficult and interesting, coupled with an overwhelming workload has made for a very unpleasant experience thus far.
+________________
+EECS 376: Foundations of CS
+Workload: Moderate
+Objective: Theory behind CS, efficiency, cryptography, randomness
+Structure: Weekly Homeworks, Midterm, Final
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took with Volkovich in Fall 2019. Loved this class, as it built on top of 203 concepts. Most people like this better than 203 because it goes deeper into topics more obviously applicable to computer science. Be ready for proofs + spending a long time on problem sets. I took this class with EECS 370 + a math class. 
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken during Fall 2020 with Prof Volkovich. This was one of my favorite courses I’ve taken so far! Unlike most of my other coding-intensive EECS classes, this felt more like a math class characterized by formal proofs and requiring a different approach to problem solving. I thoroughly enjoyed learning about these new concepts and found that this class influenced my approach to critically thinking about abstract concepts. Lots of people compare this class to 203 because they're both math-y classes, but I liked 376 a LOT more than 203 (and I think most people do). I took this class with 370 and a humanities class (a lot of people take 370 and 376 together) and felt like it was a lot of work but doable. I also loved typesetting my assignments in LaTeX :)
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+awesome class, much better than 203, really starts bringing together the theoretical side of cs and the practical side of cs together, this and 281 are your entry interview courses
+________________
+
+
+Evan Weissburg | Computer Science Engineering & Mathematics Minor
+I liked this course. It felt like a more put-together version of EECS 203, with the same emphasis on problem-solving. My biggest takeaways were how to think about decidability or tractability of abstract problems -- for example, is it even possible to determine if arbitrary code halts? I like Volkyvich a lot. The only real work is the problem sets once a week, which are a bit tricky, but not super hard.
+________________
+
+
+Christian Wong | Computer Science Engineering & Business + Sustainability Minor
+Worst class I've ever taken and worst class I expect to ever take. Content-wise it's actually pretty interesting (a lot more interesting than 203 imo) but conceptually much more difficult imo. I took it with 281 and that made the beginning of 376 very difficult because there are concepts they expect you to know already from 281. It's entirely doable to take 376 with 281 but I would by no means recommend it unless you are big brained. Probably would have done a half-letter grade better if I took it after 281 instead. 
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+Absolutely love this course. Content is fascinating for sure, Prof. Brehob was great for it too. It's definitely time consuming but I think the problem solving skills are really really useful.
+________________
+Maya Subramanian | Computer Science - LSA
+The office hours for this class are a godsend. I basically camped out at office hours to understand what the homework questions were even asking and then could figure it out from there. I'm pretty nice with math, but I'm not great at 203 stuff (almost failed 203 XD) and I ended up doing pretty well in the class. Exams were tough. I took it without any other CS courses during the semester and missed coding a little bit but I could definitely feel the CS applications of what we were learning so that was nice.
+________________
+Anne George | Computer Science Engineering
+better than 203!! very helpful to do the homework, work with groups to get a good understanding of the material. I LOVE PROFESSOR BREHOB!! I truly believe he is one of if not the best professor i've had at this university thus far! I am SO BAD at proof based classes like this, but he explains concepts very well and makes sure you have a solid foundation, no matter how long it takes! 
+________________
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took FA19 with Prof Volkovich. By far the hardest class I've taken throughout undergrad so far. Content flew straight over my head, and I couldn't understand it no matter how much I studied. Contrary to what most say, I found it to be pretty different from EECS 203. The content is a lot more abstract, which made it far harder to understand. Took it because I had to, not because I wanted to.
+________________
+Rithik Aggarwal | Computer Science - LSA, BBA
+Absolutely the worst class I've taken in terms of enjoyment. I didn't think any of the concepts were applicable to CS and it felt like all grunt work. Definitely not a huge workload by any means, but I ripped office hours like no other in order to get good grades on the homeworks. Most of the time I didn't know what I was doing in the class so riding office hours for the entirety of the beginning of the week got me most of the points I needed to get a passing grade in the class. I can't really give any other advice besides to take it with a group of friends and to hit office hours frequently.
+________________
+Lucas Felpi | Computer Science - LSA
+Taken this class Winter 2021. Thought it was going to be terrible, mostly because of my bad experience with EECS 203, but it was actually better than 203. It felt less like proving super abstract mathematical concepts, but rather more applied to computer science and programming. Recommend taking with 370, because they have some topics in common, and watching Brehob’s lectures (he’s great!).
+________________
+Rob Gibbons | Computer Science Engineering & Chinese Minor
+Loved this course. I found it easier and less frustrating than 370. Objectively less workload (one weekly hw) They give you the answers in OH sometimes. 
+________________
+Anonymous | Computer Science Engineering & Creative Writing Minor
+I actually did like this class. I think the main advice I have is to actually do the homework and not just write down what others did - doing the homework is the simplest way to understand the material. Out of all the professors I liked Brehob best, but I also think most of my understanding for this class came from the section notes and the 376 foundational computer science page https://eecs376.github.io/notes/ . Also biggest piece of advice: while grading your homework’s and exams they often take off wayyy more points than they should - ALWAYS check over your grades and submit regrade requests so that they don’t dock you points that you should’ve earned.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+Much nicer than 203. The professors are pretty great, and would recommend looking on YouTube for explanations if something doesn't make sense. It is a nice visualization to the problems that you take on in 281/203. Would recommend taking this early on, as it complements 281 well and can help for interviews. Would recommend taking with another project course (i.e. 281) as this is more theory.
+________________
+Michelle Liu | Computer Science Engineering 
+honestly i thought i would hate it because i didn't like eecs 203 but i really enjoyed this class. it's math that is about foundationals of CS and pretty interesting problems. i'm pretty eh at math so i'd recommend finding a study group to do things with and solve problems with and spread out time in OH to get answers to homeworks. the exams have questions kinda like the homeworks so I just threw up random stuff in the same general format as my homeworks as an answer and it ended up working
+________________
+Anonymous | Computer Science Engineering & Applied Statistics Minor
+I took this class W21. It was very interesting but a lot of work. I spent easily 6 hours a week on the homework. The concepts are very applicable to other coursework you will do and even after just a few months out of this course, I have come across things that were talked about in the course in my real life whether that be in class, an internship, or just life in general. A good course but definitely a grind. 
+________________
+Anonymous | Computer Science Engineering 
+I did not like this class at all. But you just have to do it. Homework is the main part of this class, so start early, get help, and join the KTP class chat and you should be good
+EECS 388: Security
+Workload: Moderate
+Objective: Security attacks and practices in software development
+Structure: 5 projects, weekly quizzes, final exam
+
+
+Reviews: 
+Anonymous | Computer Science - LSA
+I took this class winter 2020, half of the sem was remote because of covid. Looking back the content I learned was actually super cool and interesting to learn about. It actually helped me a lot with 485 which I took the following semester. While taking the course I remember not liking it, but now I wouldn't think it's a bad class to take.
+________________
+Anonymous | Computer Science - LSA
+Genkin is a really cool professor and great at lecturing (yelling). Honeyman taught the bulk of the lectures tho and he's boring. tbh I bet he will retire this year so might not be an issue going forward. Projects are really cool and not code heavy! also partner work made this class a breeze. took w/ 376 ez
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I found this class to be extremely disorganized, and the lectures were not understandable or applicable to the projects at all. Office hours were a necessity to completing the projects.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+I enjoyed this course, it felt like a "puzzle" class. It is a pretty light course, and would recommend taking it as an early ULCS if you don't know what else you want to take. General security knowledge is pretty useful to know, and the projects were pretty cool. 
+________________
+Fizza Ahmed | Data Science - LSA
+I'm taking this class right now. It's not too much time, which I really like. The professors aren't the best, and the lectures are kind of confusing ngl. But the projects aren't too hard, and the material is interesting. I'd recommend it still.  There's no midterm, only exam, so be sure to consider that. You also have to work with a partner for projects 2-5 so maybe take it with a friend!
+________________
+Anne George | Computer Science Engineering
+Taken Fall 2021 alongside EECS 485. These projects are very very short, but very difficult to think about. Some solutions are only a couple lines long! The lectures are pretty boring, and only some relate to the projects which I recommend watching those!  Honeyman tries his best but he is sadly one of the worst lecturers Ive ever had 🥴. Never explains anything clearly and homie will try to get through 120 slides and only manages 15 because of all the tangents LOL. These projects are required to have partners so again choose wisely that it’s someone who matches your pace! Often times it’s easy to split some of the projects when they’re in different parts so you can do that! Projects are definitely simpler than some other EECS classes but this class is probably the most research heavy one I’ve taken! 485 at least points you to correct resources but 388 is very much let Google guide you! Plus some of the IAs are not very helpful so be warned 
+________________
+Ananya Joshi | Computer Science Engineering & Creative Writing Minor
+I honestly wasn't a fan of this class. Computer security is a field that is really unique, it isn't traditional logic/coding. It's all about thinking untraditionally to bypass a secure system, and I often found myself frustrated and unable to reach the answer myself. Lectures are generally theory and don't help much with projects, and the general advice of staff is to Google. You'll end up doing most of the learning by yourself. This class isn't for everyone!
+________________
+
+
+Rohan Erasala | Computer Science Engineering
+**WARNING** By the time you're reading this, Professor Honeyman will probably have left, and it is entirely possible that the class will have changed completely. That being said, if the course has not changed …  Imagine someone took several EECS classes, pulled a random project from each course, and then asked you to exploit security vulnerabilities in each of these projects. This is what Professor Honeyman has achieved with EECS 388. He has created a class with a curriculum so large and unrelated that no one human could possibly comprehend all of it in the span of 4 months. This means the information is extremely rushed and not delivered well, sometimes not even by the professor at all. Roughly every 2 weeks in 388, you’ll be covering an entirely different topic that has almost no correlation to the prior one.  The absolute gargantuan scope of this course means that the projects require you to have a working knowledge of whatever was poorly explained in lecture the week before. When you’ve finally understood the topics that are necessary to type something you think is right, you’ll run into about 9 different problems that you’ll have no idea how to solve because, well, you barely understand the topic itself. I don’t consider myself to be a dumb person. I’ve always done “well” in my EECS classes - around an A or B range in all of the classes I’ve taken, and I don’t think I work much harder than anyone else (if anything much less). 388 took everything I thought I knew about myself and threw it out the window. I have truly never felt more incompetent, overworked, and sometimes, just utterly lost in a class like I have felt in 388.  It is entirely possible that the structure and content of this class was not my strong suit. That being said, I genuinely don’t know who would want a course that is run like this. If you do want to take this course, the lab and the (correct) IAs will be your only lifelines. I could not complete a single project without being in office hours for a minimum of 6-8 hours each time. There is just so much information and unaccounted variables that you won’t understand, and only the IAs can help you with them.  Please, just save yourself and don’t take this class. It can be tempting to enroll in it because it’s (usually) always open. I can confidently say that there is a very good reason this class will probably never fill up - it sucks.
+________________
+EECS 442: Computer Vision
+
+
+Workload: About the same as 445
+Objective: "Applications of ML"
+Structure: Annoying homeworks, no exam
+
+
+Reviews: 
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+Cool projects but boring class imo
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taking Winter 2021. This semester, the class is taught by David Fauey and Justin Johnson (both very good and passionate professors). This semester the workload was cut down a lot (due to covid and all the stress/difficulty motivating that comes with). Personally, this subject isn't what I see myself going into for a career so the material is less interesting to me. The class has 6 homework assignments and no exams! There's a final project (this semester there are going to be 6 different options for us to choose form, in the past I think teams had the freedom to choose any CV topic), which is supposed to be roughly 1 homework assignment for each member of the team (teams are 3-5 people). 
+________________
+
+
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took FA20 with Prof Owens. Overhyped course in my opinion. Name sounds cool but content didn't deliver. I think they changed the structure of the class right before I took it, and I think they made it so that it's more like the graduate level course. Material was covered too briefly and quickly-- I would've liked to see fewer topics covered but more in depth. Homework assignments were also really frustrating at times, not because of the content, but because of Google Colab configurations that wasted hours of my time when the logic itself was correct. I'd really only recommend if you're looking for an easier ULCS. 
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+While this course is neat and pretty cool, I wouldn't say it's a must take if you are not interested in CV/robotics as it is different from typical software engineering. Professors David Fouhey and Justin Johnson are great, super funny and very helpful. The workload is rather light (a homework every two weeks-ish), and the professors/GSIs are pretty active on Piazza for further questioning
+________________
+Salil Nadkarni | Computer Science Engineering & Math Minor
+Took this class F20 with Andrew Owens. Interesting class if you're interested in Computer Vision. Class difficulty is a solid medium: psets are easy to complete and usually stolen from a paper (aka the code is online and out there), the project is pretty open-ended and not very intensive. Only complaint is that content went over my head a lot, and did not seem reinforced by the problem sets.
+________________
+EECS 445: Machine Learning
+
+
+Workload: Heavy
+Objective: Supervised learning (regression, classification, kernel methods, and regularization) unsupervised learning(clustering), using python libraries for ML
+Structure: 2 exams, 2 coding projects, 5 problem set homework assignments
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took in Winter 2020 with Prof. Kutty. I loved Professor Kutty, and everyone who is taking this class should try to watch her lecture. Make sure to take advantage of office hours for hw + projects, because some of the concepts are pretty difficult to grasp at first. The workload for this class is similar to EECS 376 (maybe a little less). A lot of people don't end up liking this class because it is somewhat math-heavy (linear algebra + vector calculus), so be ready for that. However, you don't need to be amazing at either to succeed in this class. I took this with EECS 485 + a math class.
+________________
+
+
+Anonymous | Computer Science Engineering
+I didn't take it, but I wish I did. Like I said in the 484 discussion, the foundation can come in handy. It's nice for things to not go over your head when someone brings up a topic within the area, because ML applications are everywhere. 
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+fun class, people get scared by the prereqs (multi calc, probstat, linear) but honestly the hardest part of the class is just algebra and brute force calculation. Fairly low workload compared to the coding classes.
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taking Winter 2021. Personally, I like this class a lot. The class is co-taught by Kutty and Weins. Both are great professors, Kutty's my personal favorite (her teaching style matches my learning style very well). However, this class has taken a lot of heat this semester because they changed all the projects and homeworks attempting to make them shorter. But due to this being the first semester of the new assignments, there was a lot of ambiguity in the assignments. The professors and IAs addressed this and I'm sure they are going to improve them for the future. There are two exams (midterm and final), two projects (workload similar to other EECS classes, however there's a challenge part that has a lot of flexibility for you to explore the ML field), weekly quizzes (very short), and four homework assignments.
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+I was pretty eh on this course. I think the concepts are great to know but a lot of the math is not very fun to do and there's not that much applied work. It's also fairly high workload, so don't take it alongside like a 281/482 type course
+________________
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took W20 with Prof Kutty. Prof Kutty is one of my favorite CS profs to date -- she's incredibly passionate about what she teaches and brings this positive, bubbly aura wherever she goes. If you can, make sure to take this class with her. Course itself is a bit math heavy, and I felt like there was a bit of a learning curve when I first got started. I took MATH 214 as my linear prereq but never took Calc 3 in high school or college, so terminology like gradients took getting used to. That being said, don't let the first homework scare you away. I promise it gets better after!!
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+This course was more math-y than I had anticipated, but it was very interesting. Would recommend taking if interested in ML/AI at all. 
+I took it alongside 482 and thought it was fine, would recommend taking with a project course of sorts as 445 leans more on the math side as opposed to implementation. Professor was clear, lecture is rather important as some notes are left out on the slides/discussions. 
+________________
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Took in F21 with Kutty and Wiens. I hated this class. I contemplated dropping so many times and I even considered taking a W on it. I'm not sure why I feel so strongly this way but a couple of reasons are that (1) I thought it was kind of poorly run -the project specs were error-ridden and required an extreme amount of googling (which I guess is an important skill to learn but very frustrating) and Piazza hunting, (2) the content is extremely math-y (which I knew going in, but the math was the tedious and plug-and-chug variety, not the creative 376 type), and (3) overall I didn't find the lectures interesting. Everything pre-midterm was a bore, though the lectures in the last 2 weeks have been a little more interesting. I wouldn't recommend this unless you know you want to learn more about the theory behind ML and are willing to spend time going beyond the scope of lectures in order to do well on the projects.
+________________
+Anonymous | Computer Science - LSA, Economics
+I have very mixed feelings about this class. On one hand, the things we are learning are really cool--we're currently unpacking the algorithms that power recommender systems which is something we're constantly surrounded by. It's good to know these things and I wish I could love this class more. However, the class is really difficult, at times excessively difficult. It is essentially a continuation of linear algebra at first, but much more advanced than anything we cover in 214, and then it moves into more machine learning specific math. The homeworks (there are four this semester) all take a ridiculous amount of time to complete and the projects are even worse (there are two this semester). Generally, it seems like the class is a little bit unorganized. The most frustrating part is that it's almost impossible to get help. There's roughly two hours of office hours every day during the week (maybe three hours) and nothing on the weekends. In typical EECS fashion, all office hours are one on one which means if you get to the queue even 1 minute after it opens you will not get help during the time slot. This can be extremely upsetting in a class that requires a deep understanding of the material to do well. Again, I want to love it--we are being taught extremely powerful and advanced machine learning algorithms, but the logistics of the course and workload make me angry sometimes.
+________________
+Ashvin Kumar | Computer Science Engineering, Electrical Engineering + Asian Languages and Cultures - Tamil Minor
+Taken during Fall 2020. I thought this was a great class. It was definitely a lot more math-y than most of my other CS classes. The homeworks and projects are both pretty time consuming. The workload is definitely significant, but I think you should be able to take another moderate-workload EECS class along with this and be fine. I took this class with Sindhu Kutty and I thought she was a really good professor. 
+________________
+
+
+EECS 481: Software Engineering
+
+
+Workload: Moderate
+Objective: Learn about SWE industry, testing systems, design methodologies,QA
+Structure: 2 exams, readings for each classes, pop quizzes, 6 projects, last one is making a contribution to open source
+
+
+Reviews: 
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+Take with weimer only
+________________
+
+
+Sahil Patel | Computer Science Engineering
+Wes Weimer is one of the best professors I've had here. He makes a not so interesting class very engaging. Overall, you won't gain much here if you've had a software internship experience in my opinion. It's fine, but wasn't a great use of my time. The final project where you make an open source contribution is cool though! The website is public so you can straight up look and see whether you find any of the topics interesting
+________________
+Rob Gibbons | Computer Science Engineering & Chinese Minor
+Loved it. Some people say if you had an internship you wont get a lot out of it, but in my experience this is false. Very pragmatic useful class, great teacher (w Kevin Leach) and fun smaller Projects :) 
+________________
+EECS 482: Operating Systems
+Workload: Extremely Heavy
+Objective: Operating System Design and Implementation, multi-tasking, concurrency, file-systems, deadlock
+Structure: 2 exams, 4 projects, first project individual, projects 2-4 in groups of 3. 4-credit and 6-credit version
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took 6-credit in Fall 2020 with Professor Madhyasta + Chen. Really loved this class, because I felt the projects were super well designed and the concepts in the projects really reinforced the lecture material. I think that people maybe hype this class up too much -- the projects are definitely frustrating at times, but very doable as long you start the day that they are assigned. Exams are very difficult in this class, so be ready for that. I recommend taking no more than one other programming class with the 6 credit version.
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taking the 6 credit version right now (Winter 2021) with Prof Kapritsos. LOVE the class. The content is super interesting and everything seems so big brain. My favorite part of the class is that the projects genuinely make you a better programmer. I feel like I know SOO much more about C++ and just overall effective coding practices because of the amount of time we spend on the projects. The projects are pretty long though so you HAVE to start early. I found the exams really hard and the midterm ended up being my worst grade in college. That's mainly because there are only 3 problems and they really make you think about the best way to approach them because the solution ends up usually being super elegant. I don't think you NEED to take this class but if you're at all interested in C++/low level development then you should. I also can't think of many reasons for taking the 4 credit over the 6 credit version. You're gonna be spending so much time on this class that you might as well get the other 2 credits. Plus, you understand the content so much more if you take the 6 credit version. 
+________________
+
+
+Sahil Patel | Computer Science Engineering & Mathematics Minor
+"I took the 6 credit version. If you're already committing to 482 4 credit, the 6 credit really isn't that much more work and you get a deeper understanding of the material through the extra project work imo.
+I took it first semester senior year, tried to take it 2nd sem junior but couldn't cause waitlist issues. It ended up working out because I took 491 right after which has 482 as a prereq and it is only offered in winter semesters afaik. So if you want to take 491, I recommend doing 482 and 491 back to back by taking 482 in fall then 491 winter.
+Should you take 482:
+Concurrency is super important and this is the only class that explains it in detail. If you see yourself doing backend/systems/lower level work, definitely take it. If you're aiming to be a PM or do frontend work, It's probably overkill (Although if you have dealt with async frontend stuff learning about concurrency isn't too big of a leap). I loved the first half when threading and concurrency were the main topics, and liked it a little less the second half (virtual memory and file systems). I liked learning about the 2nd half topics a lot, but didn't enjoy the projects near as much. Also make sure you have a group before you take the class, your partners being dependable is key to your success on the projects. Shoutout to jonah and chris for carrying me"
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+Took this with harsha 6 cred, regardless of whether you're going into web dev, full stack, backend, or systems (especially systems), you should really be taking this course. Not sure why it isn't a core course - learning to make code parallel properly is something you'll be doing in industry a lot regardless of where you work.
+________________
+
+
+Evan Weissburg | Computer Science Engineering & Mathematics Minor
+This is a challenging course that requires a lot of design work and thinking up-front. You can have partner groups of up to 3, and it's super important to choose a good partner/partners to work with. Reading the textbook helps a lot, especially with project 2. Overall, great course that will force you to grow as a software engineer and computer scientist. Manos is a good prof.
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+6-credit version! I loved it, it's hard as hell but very rewarding. Definitely take the 6 credit version. My biggest takeaway is that it teaches you a lot of really good problem solving skills, even if you never use the information again.
+________________
+Maya Subramanian | Computer Science - LSA
+Currently taking 6-credit. Ask me for my final opinion if/when my group finishes P3 but so far it's been really insightful, overwhelming, and difficult. I have never learned so much in such detail during a semester before. Find good partners who you work well with. I've noticed myself becoming super introspective about the way I collaborate with others and have grown a LOT from the first project to now. It is very, very hard (like 12 hours a day on Zoom - hard) but hopefully worthwhile? Feels like the true CS major experience
+________________
+
+
+Anonymous | Computer Science - LSA
+Im currently in the 6 credit course right now and I really like it but they don't lie when they say its a ton of work. You literally live breathe 482 the whole semester. I seriously recommend taking it with a super light load, I'm taking two other classes so its a lot better. I took this class because everyone said how the material is such a plus when it comes to recruiting and even within industry; I can definitely see why.
+________________
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Taking the 4-credit version right now W21 with Prof. Kasikci. I'd definitely recommend taking the 6-credit version if you're able to fit it in your schedule, but you learn more than enough in the 4-credit version to do well on the projects and exams, so don't let that deter you. Having a good team going in that's willing to start early and put in their share of work is super important. Be ready to put in 40+ hours of work for some of the projects, and definitely don't overlook OH and piazza while you're at it -- imo, the IAs are some of the most knowledgeable I've encountered so far. Course material is challenging as expected but I could not recommend taking this class more!!
+________________
+
+
+Rithik Aggarwal | Computer Science - LSA, BBA
+I took the 6 credit version in the W21 semester with Maya and Harvey as my partners. I took it with Manos Kapritsos who's a fantastic professor - highly recommend. This was by far the most mentally challenging and strenuous class I have ever taken in my life. The sheer amount of hours I spent on a Zoom call planning, coding, debugging, stressing, and crying were unreal. My first piece of advice - take this class with people you know and trust. I trust Maya and Harvey as they're two of my closest friends, and it made it so that I could rely on them when I couldn't work and they could rely on me when they couldn't work. I know countless people in the class who dropped because they looked for their partners on Piazza and then it did not end up working out in the end. My second piece of advice - don't take this class with any other classes you care about. I took it with an astro class, a bio class, and an econ class. I stopped going to lecture for all three because of the sheer amount of time I was putting into this class. Be prepared for 12+ hour work days back to back to back for the week leading up to the project. Finally - start right away. Yeah, sure they tell you this in 280 and 281 and you didnt really have to, but if you dont get started right away in this class you're royally screwed. Plan your code, implement quickly, write a ton of test cases and be prepared to spend hours debugging. All that aside, fantastic class and one of the most rewarding experiences I've had during college :)
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+Took 6 credit version. Highly recommend taking it ASAP, concurrent programming paradigms are super important in the field and interesting, if nothing else, and it also teaches you more C++. Professor was Harsha M (and Peter Chen, but we don't talk about that). He was a wonderful professor, and he is always happy to clarify things further if needed. 
+General advice is to almost memorize the spec, as there are various details that you might forget about while implementing. Take it with a group you trust, soloing the projects are doable but very time consuming and very draining - having dead weight on the team is worse than no weight.
+Taking this class as your only EECS course is fine, can probably add another low/medium course to go alongside this course (preferably a more math-y/theory course, unless you really like coding)
+________________
+Ashvin Kumar | Computer Science Engineering, Electrical Engineering + Asian Languages and Cultures - Tamil Minor
+Took 4 credit version during Spring/Summer 2020. I loved this class - it's honestly one of my favorite classes I've taken. It's a lot of work for sure, and you're going to have to put a lot of time in the class, but you learn a TON and it's also awesome exposure to concurrency that you don't really get anywhere else. Also super fun if you're interested at all in lower level stuff like systems programming. Make sure you have a good partner or two going in! Also make sure that you spend a while at the beginning of each project planning out your design before you jump into programming. I would say this should probably be your only high workload class for the semester.
+________________
+Anonymous | Computer Science - LSA & Education Minor
+F21 took the 6 credit version and thought it was a very cohesive class, definitely made me think the hardest I feel like I ever had to. I enjoyed the conceptual thinking in this class during projects, made me feel like I had to truly reason through everything rather than mindlessly changing code. 
+________________
+Salil Nadkarni | Computer Science Engineering & Math Minor
+One of the most challenging but informative classes I've ever taken. It's been mentioned before but *make sure* you take this class with group partners you know you can trust and enjoy working with (you'll be working with them a lot). My personal opinion is that more important than just the OS concepts are the design concepts you learn: taking extra time to make your code *clean* makes it not only easier to debug and reread projects later, but also reinforces some of the concepts in the class you might run into even if you're not a backend engineer.
+________________
+EECS 483: Compilers
+Workload: A bit less than 482
+Objective: Learn compilers basics (front end portion)
+Structure: 5 projects and a midterm
+
+
+Reviews: 
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taking it right now (Winter 2021) with Prof. Tang. The class is pretty small and because of that, the course staff is kind of disorganized and doesn't offer much support. The projects get increasingly difficult, with the first 2 being really easy (you could finish in <10 hours) with the later ones getting complicated and weirdly ambiguous. Because the project spec is ambiguous, they give us the solution executable to run against test cases and help understand the correct output, but we ran into some issues with the solution executable literally being wrong, so the projects can be frustrating sometimes. However, I do feel like I'm learning a lot about the structure of programing languages and actually applied some of the things I learned to projects for other classes. Your grade is made up of 80% projects and 20% the midterm (my semester the midterm average was 92%) and it's really easy to get a good grade. Overall, it's not that much work and pretty easy, so I'd recommend taking this as sort of a supplementary class with something else that you want to put in more work for. 
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+mixed bag, lingjia is a bad prof but concepts are pretty interesting, if you see yourself working in c++ longer term definitely take this course
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+I'm mixed on this course. It's only minorly time consuming and potentially the easiest A you'll find in an ULCS course. Also, the concepts do help with debugging c++ compiler stuff (and probably other languages) and understanding how to structure programs. However, the lectures were super boring when I took it and all the content was just recycled from past years and other schools with very few changes.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+This class is quite interesting and a fun lower level class, but is more busy work than one might think. 
+Conceptually, the topics are not hard to grasp, but implementing them can get a bit tedious. Professor Lingjia is pretty bad (very slow or very fast), GSI Sung is wonderful and is a huge help if you email him/Piazza msg him. 
+General advice is to find a nice partner, but soloing the projects is very doable without much extra stress. 
+________________
+EECS 484: Databases
+Workload: Moderate
+Objective: learning SQL, learning how to design database systems
+Structure: 5 Homeworks, 4 Projects, Midterm, Final
+
+
+Reviews: 
+Sahil Patel | Computer Science Engineering
+"Looking back on it, I definitely would NOT have taken this class. You learn SQL queries a lot better than you do in 485, but I've forgotten most of that now. Whenever I need to remember something SQL beyond a simple select or insert or whatever it may be, I just look it up lol.
+
+
+The second half of the class is a lot database theory that I wasn't interested in, so I didn't get much out of it at all. But if you want to do research in this area you might find this stuff fascinating! The staff at the time I took the class would have conflicting answers for questions all the time which was annoying as well. Can't recommend, especially if you take 485. If you've taken 485, I recommend 445 instead because it provides you with a foundation in an entirely different topic. Even if you don't want to be an ML person, the foundation can come in handy because it comes up a bunch in modern engineering problems. "
+________________
+
+
+Anonymous | Computer Science - LSA
+I took this class fall 2019 and absolutely despised it. This class is not worth it at all not to mention the professor was horrible and half the time the IAs would tell you the wrong answers to the homework because they had no idea what they were doing.
+________________
+
+
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took W20 with Prof Honeyman. Ngl I didn't have the best experience with Honeyman. He's a very respectable researcher in his field, but his expertise doesn't really come across in his teaching. He frequently confuses himself with his own lecture slides, which made some content pretty unclear. The class in general was also really disorganized. Lots of last-minute corrections surrounding homework assignments and confusions about expectations. It hurts to give such a negative review because I actually found the content very interesting. Content was also a good base/supplement to go into EECS 485 with but not necessary. Again, class management could just use some improvement.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+I hated this course, mainly for the professors (I had Alomani or however you spell it). The professors would often misspeak and have incorrect slides and project autograders would be inconsistent/nondeterministic. The IA/GSI's were helpful, but were often booked because everybody wanted to get help.
+DB knowledge is pretty useful in the industry, so I would suggest taking this course or learning outside of it, but if taking this course, I would recommend self studying instead of relying on the professors.
+________________
+ EECS 485: Web Systems
+
+
+Workload: Moderate
+Objective: learn about HTML/CSS, React, Web Applications, Distributed Systems, client/server protocols, data processing,fault tolerance
+Structure: 5 projects(in groups of 2-3), 2 exams
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Took in Winter 2020 with Prof. Kloostermann. Really great class with a lot of applicable skills for side projects + internship-related skills. Strongly recommend this as the first ULCS for anyone, because it gives you an introduction to basically all other fields. Projects are very doable, and probably a similar time commitment to EECS 281. I took this with EECS 445 + a math class, and I think most people take another EECS class with this. 
+________________
+
+
+Sahil Patel | Computer Science Engineering
+"Take this class as your first upper level! It provides insight into so many topics (security, databases, networking, operating systems, distributed systems, a tiny bit of machine learning). Given everything you learn, you can figure out which topics pique your interest and can then choose which upper levels you want to take based on that.
+Projects 3 and 4 in this class (Python API/React based instagram + MapReduce server) are among my favorite EECS projects I did in any class. Can't recommend it enough. I took it with Deorio who is fantastic as well. I'm fairly sure he was the one that reworked 485 to be the version of what it is today so if you can take it with him I would.
+After taking this class I felt capable of actually creating ideas that I had in my head. This is a must take in my opinion if you don't already have a lot of background in the topics covered. "
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+you can learn everything here outside of school but its a decent entry ULCS if you have no idea what you wanna do
+________________
+
+
+Annika Dahlmann | Data Science - LSA & Spanish
+Taken Fall 2020. Really enjoyed the class, DeOrio is such a good professor, plus he has chickens and tells stories about them during class, who doesn't love that. But by the end of this class you can basically code a web app from front to end, using multiple different techniques (server-side, dynamic vs. static pages, etc.). The class has two exams (midterm and final) and 4 projects (I believe), very manageable workload. 
+________________
+
+
+Fizza Ahmed | Data Science - LSA
+One of my favorite classes I've taken!! Really applicable stuff. You learn how to teach yourself new languages. The projects are cool and the professors are good. I would say it's a good first upper level CS class. It's less work than 281 imo.
+________________
+
+
+Christian Wong | Computer Science Engineering & Business + Sustainability Minor
+Learned a ton in this class (Python, JavaScript, HTML/CSS), but be aware a lot of it is self-taught. A lot of the things you learn in lecture are random facts and concepts that have a little bit of relevance in projects but will show up on exams. Make sure you have good partners for the projects and start them early. Taken alongside 370, which I personally thought was manageable (there was no significant exam/project schedule conflicts in w21)
+________________
+
+
+Kelley Sweitzer | School of Information - UI/UX Design & Computer Science Minor
+I thought this class was harder than I expected... it moves really quickly and covers a lot of ground, but it's so worth it because it's easily the most useful info that I've learned in my short time in EECS. I wish I had paid more attention to the lectures.... Like I did decently on the exams without watching lectures but I think understanding the databases stuff would've been really useful to me in my career and I don't think I retained anything from it :/ It's a great class to pick as an upper level in the CS Minor. 
+________________
+
+
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+I enjoyed it, good for web dev skills and a good intro to web dev for ppl who don't wanna do it as a career (i.e. me). Not too high workload either, and pretty much all the profs (kloostermann, deorio, juett) are fantastic. I took it alongside 445 and it was pretty manageable.
+________________
+
+
+Anonymous | Computer Science - LSA
+loved this class with DeOrio! Group projects and cool topics made it a really practical and helpful class! failed project 2 by trying to work alone... dont do that! took w/ 370 and wasn't an issue.
+________________
+Alice Ying | Computer Science - LSA, Cognitive Science 
+Took FA20 with Prof. DeOrio alongside EECS 442. DeOrio was great as always, and workload was very manageable (comparable to 280). I think this is a class everyone should take as soon as they've finished the prereqs to do so. Looking back, I wish I had taken this class earlier because it gives you a broad overview of a ton of important CS topics, which really lays the foundation for many other ULCS courses like 484 and 482. You don't realize how important this class is until after you've taken it.
+________________
+Pibby Garrahan | Computer Science Engineering & Music Minor 
+I really liked the content of this class, however there were two professors for this class (John Kloosterman and Nicole Hamilton) and Kloosterman is a way better professor in this class than Hamilton. It is Hamilton's first semester teaching this class and she would have office hours and people would ask questions about the project and she would say "I don't know anything about this project". Something I really disliked about this class is that the IA's did not answer piazza posts. Overall, the content of this class was really interesting and the projects are amazing to put on your resume (building a map-reduce server, building a scalable search engine). I would say try to go into this class knowing who you will work with, because the people I worked with I did not know super well and they made the projects harder tbh- I actually did the hardest project (p4) on my own and it was way easier to do by myself than with a dysfunctional group.
+________________
+Michelle Liu | Computer Science Engineering 
+I think it's a really good ULCS class to start out with, didn't personally really love projects 1-3 bc there was a lot of frontend backend website stuff that just requires you to learn like a new language, but loved 4-5 because there was more thinking and algorithmic stuff to it. generally in lectures I didn't love it but it was good to know about how the internet and how websites work. make sure that you have a good team! it makes the class go much smoother
+________________
+Anonymous | Computer Science Engineering 
+Definitely take this class. Slightly challenging but you learn so much that you would even potentially use in your career through technologies like React, Flask, etc. and also learning about the internet.
+________________
+Anonymous | Computer Science - LSA
+The one EECS class that every CS major should take. It is so useful and the most tangible class you will take at Michigan. Professor DeOrio makes it so much better, his lectures are amazing. You will actually find the lectures interesting. I think there's a lot of things to learn in this class and its a perfect foray in to upper level EECS, meaning it should be the first one you take. I actually used what I learned in this class at my internship last summer and have the knowledge he taught available in my mind for interviews.
+________________
+Anne George | Computer Science Engineering
+Taken Fall 2021, I think this class is extremely useful in terms of the skills you’re taught! DeOrio is definitely an engaging lecturer! 
+Projects are done in groups of 1-3 and I highly recommend doing it with a group of people who work at a similar pace as you since that’s crucial! The projects aren’t too conceptually difficult, but you are expected to research into a lot of things on your own!! It’s a great introductory upper level but I would warn when pairing with 388 as both are big project classes with somewhat close deadlines. It is very attainable though as long as you start early on the projects and communicate with your teams! Exams are pretty fair and similar to practice exams 
+Labs aren’t recorded but I wish I went to them for that reason because I’ve heard they’re very helpful for the projects! 
+________________
+EECS 486: Information Retrieval
+
+
+Workload: Lighter than core reqs, higher than 493
+Objective: Information Retrieval, think web scrapers and stuff
+Structure: Historically had homeworks, 2 projects, and a midterm
+
+
+Reviews: 
+Anonymous | Computer Science - LSA
+late dropped this class bc it's unorganized and boring as fuck. supposedly the lowest workload course, but the lack of structure made it really painful for someone who wasn't already really proficient in python
+________________
+EECS 489: Computer Networks
+Workload: Moderate
+Objective: Client-server computing, socket programming, routing and transport protocols, congestion management
+Structure: 2 exams, 4 projects, first individual, rest in groups of 2-3
+
+
+Reviews: 
+Sahil Patel | Computer Science Engineering
+I enjoyed this class! 482 is actually not a real prereq even though it says it on the course guide, so you can get an override to take it. Projects 2 is pretty cool, where you implement the DASH protocol. Basically its the thing that happens when you're watching a video and the video resolution automatically changes depending on the speed of your connection. The class takes a top down approach, discussing big picture ideas and then slowly getting more into the nitty gritty as the semester goes on. I like implementing the bigger picture things a LOT more, so I wasn't a fan of the last project in particular. All of the material was interesting for me, and I think I got a good foundation of a topic I might not have learned much about otherwise. Networking might sound dry but I enjoyed it, I definitely recommend! 
+________________
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Taken in F21 with Prof Chowdhury. I liked this class a lot. P1 was pretty easy (literally just the starter code + 30 LOC). The beginning of P2 that involved setting up the testing and VM was admittedly a struggle, but once we got past that initial learning curve and actually started working on the core part of the project it was really interesting. I'm a big fan of C++ development so that's mainly why I enjoyed this class, but I also thought that the lecture content was interesting. Exams aren't meant to trick you and I thought they were a fair assessment of your understanding of the material. Overall I feel comfortable recommending this class if you want to further your C++ skills and need to fill some credits. Overall, we didn't spend too much time on this class (about 281 level workload)
+________________
+EECS 491: Distributed Systems
+Workload: A tad less than 482 (prereq is 482)
+Objective: Make programs fault tolerant (pb replication, paxos, sharding)
+Structure: 4 projects in Go, 2 exams
+
+
+Reviews: 
+Aditya Ravi | Computer Science Engineering & Mathematics
+Taking in Winter 2021 with Prof. Madhyasta. Awesome class + very interesting topics, but probably the most conceptually challenging course I've had in EECS. The projects are significantly easier than 482, but they are all in Go, so you have to learn a new language. Exams are more difficult than 482 exams but similar style. Strongly recommend taking this class if you are interested in systems programming/design. 
+________________
+
+
+Sahil Patel | Computer Science Engineering
+In it during W2021. Projects are cool, class material itself is interesting and about half of the lectures are discussing real world systems which is great. Definitely recommend taking it if the topic sounds even somewhat interesting to you. Professor Harsha Madhyastha is great as well. I took no other EECS classes with it, but I took another heavy class and it's very manageable. Nowhere near as much work as 482, but not a walk in the park either. It's also taught in Golang, which has been fun to learn.
+________________
+
+
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+its fine, pretty theoretical, easier projects than 482 but harder exams, take this if you really enjoyed the thinking process of 482. Taught in golang which is not a terrible language.
+________________
+Anonymous | Computer Science - LSA, Data Science - LSA
+Take it the semester after 482, there's no real reason to put it off as distributed systems is useful to know in the industry. The projects are much simpler than 482 (specs are like half the size, if not less), and lean more on conceptual knowledge for auto-graded cases than smaller details.
+Professor is Harsha M, he's a great professor. Speaks very clearly and answers questions quickly. 
+Would say workload is similar to 281, maybe even easier considering the optimization checks are much looser than in 281. Feel free to take with whatever other course as 482 is out of the picture.
+________________
+Salil Nadkarni | Computer Science Engineering & Math Minor
+Taking it Fall 21 w Harsha. In terms of concepts EECS 491 is hands down the coolest EECS class I've ever taken. It builds on EECS 482, covers how to make a group of servers over a network appear and act like one server. Simple concept, but underpinning to the webs coolest infrastructure. Like 482, class emphasizes design to an even higher level. Projects are easier (still a design challenge), but exams are harder. Also, it's really good conceptual prep for the 'system design interview' (common among more senior engineering interviews). Also staff is dope, Harsha is super knowledgable and tries his hardest to learn every student name (even if you don't show up to class). Also Ravi IA'd and he's dope as always. IMO probably the second most important class (behind 482) for anyone interested in infra / backend development in the future.
+________________
+EECS 492: Artificial Intelligence
+Workload: Lighter than core reqs, heavier than 493
+Objective: Very broad intro to AI course
+Structure: Changes every year, but expect coding based HW's and exams
+
+
+Reviews: 
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+dont take with kuiper, its a decent entry ULCS if you wanna get your feet wet with AI basics, but otherwise pretty boring
+________________
+Anonymous | Computer Science - LSA
+This class was a lot more exciting for me going into it because I thought I would learn some cool stuff related to AI but it was nothing of the sort. I literally was coding BFS and DFS as a homework assignment. The class isn't hard but its just really boring and you barely learn anything about AI. The good thing is that there were no projects, just homework assignments and exams. I would take this class if it was a last resort and you needed a kinda easy class.
+________________
+Christian Wong | Computer Science Engineering & Business + Sustainability Minor
+Not so bad so far. The class is structured to be very low workload (4-5 hws, a midterm, and a final is all you need to do). Think 370 type workload but no projects. In terms of content, think 203 type stuff but easier, more applied, and actually kind of interesting. 
+________________
+Anonymous | Computer Science Engineering 
+Class was not what I expected, much more mathematical logic related content that I had initially expected unfortunately.
+________________
+Anonymous | Computer Science - LSA
+I personally think the class isn't too bad to get a good grade in. So far, the homeworks haven't been too bad and the midterm was not bad either. As a senior, I've been able to keep up with the class. However, I don't think the material is really that important, or feel that I'm learning real AI in this class. Sure, it is AI theory and all, but haven't been able to see the tangible benefit of the class over 2.5 months. I would not recommend this to serious students looking to for an applications-based AI class. There are programming assignments, but I don't particularly like them either - they're just weird, not too hard or "wrong" with them. Professor Emily Provost is really good though. Very clear and informative, takes time to stop for questions. 
+________________
+Ananya Joshi | Computer Science Engineering & Creative Writing Minor
+I loved this class a lot. 1/4 of the class is definitions of different agents and methods, 1/4 is search, 1/4 is probability, and 1/4 is machine learning. The class has four homeworks that are definitely manageable if you start early, and lecture helps greatly. The material is engaging, and for anyone who liked EECS 281 will probably like this class because many of the concepts are applied for real world application. The exams are modeled off of homework questions, so if you can do the homeworks you'll be just fine for the exams! I'm taking EECS 498 because of my interest in this class. 
+________________
+EECS MDE/Capstone
+EECS 480: Social Computing Systems
+Sahil Patel | Computer Science Engineering
+I took EECS 480 which was social computing systems. I enjoyed the topics overall and the workload wasn't too bad. Our final project was a drunk texting app, where your friends have to approve your messages before they're sent off of lmao. If you want to look at it it's here: https://github.com/mewil/woozy. Note that the class is taught by Walter Lasecki though, and I'm not sure if someone else will be taking over from him.
+EECS 497: Human Centered Software Design and Development
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+497 - cop out mde
+________________
+
+
+Advay Muchoor | Computer Science Engineering & Mathematics Minor
+Extremely easy and low work class. I don't have anything bad to say about this. Just make sure you're able to find a group of 3-5 people who all want to put in little work and you're set.
+________________
+Caleb Harris | Computer Science Engineering & Mathematics Minor
+Really easy, really fun, and I liked the professor. In general this is a bit of a blow-off class and great if you want an easy MDE. But also, the content is pretty interesting/relevant to working as a SWE so I'd recommend it for sure.
+EECS 441: Mobile App Development for Entrepreneurs
+Alice Ying | Computer Science - LSA, Cognitive Science 
+taking now W21 with Prof Soloway. I've heard really mixed reviews about this course, but I love it so far. Don't come into it thinking you're taking a traditional EECS course because you aren't. It's a capstone course that is half centered around entrepreneurship; coding is only half (or less) of the story. Classes aren't lecture style at all but rather spent presenting or listening to presentations, discussing current events in tech, and talking about methods like Agile. Prof. Soloway is really understanding and brings an exuberant energy to class. He isn't there to help you with coding but more to help with the business side-- to help you think of an application with a market that has the potential to succeed. Light workload, would definitely recommend, especially if you have a lot of app ideas. 
+________________
+Anonymous | Computer Science Engineering 
+TAKE THIS CLASS WITH SOLOWAY. It will be both quite chill and a great learning experience to help you in your professional life. You'll also make an app, which is cool.
+________________
+Anonymous | Computer Science - LSA
+I didn't particularly like the other capstone offerings as an LSA student and found this class to be as helpful as you allow it to be. Professor Soloway is who you want to take it with, and he gives you ultimate creative freedom in building a sort of mini-startup product over the course of the semester. It's been extremely chill so far, but all the CS learning is on you to pick up. He doesn't teach anything programming-related, but teaches about the history of software and tech. Would recommend it to those who are more entrepreneurial, because I personally enjoy the class since I am. Expect ineffective lecture sessions, but a great class structure and experience due to the freedom. Perfect workload for senior year.
+EECS 473: Advanced Embedded Systems
+Ashvin Kumar | Computer Science Engineering, Electrical Engineering + Asian Languages and Cultures - Tamil Minor
+Taken in Fall 2021. It's an awesome class and you learn a TON, but it's a huge time commitment (I felt like this class was worse than EECS 482 for reference). It depends a lot on how your team ends up shaking out, but you can't really control that apart from going into the class with a friend or two if possible. Definitely recommend taking this if you're still interested in embedded systems after EECS 373.
+Multidisciplinary Design Program
+Salil Nadkarni | Computer Science Engineering & Math Minor
+Took it W21-F21. Took MDP with ProQuest. DONT DO IT. RUN AWAY. It's not horrible choice if you're looking to build professional experience / internships for some of them. Also the experience varies from project to project: I have heard of people having positive experiences. However, there are *A LOT* more bad stories, and I personally think it's horribly run. The majority of your grade is tied to memos/agendas/weekly meetings over actual work, which means that 50% of your time is spent writing paperwork. Also the graders, salilespecially if you're put on a sponsored team, is so picky. Don't touch this with a 30 foot pole.
+________________
+Other EECS Classes
+EECS 215: Introduction to Electronic Circuits
+Andrew Li | Computer Engineering
+This class is pretty mathy, but a lot of more tedious math. I didn't enjoy this class and only took it because it was required. The professors are nothing crazy, but they're definitely not bad at all. Workload isn't bad, probably less than EECS 280. Make sure you don't get behind on lectures though, because there's weekly homework and labs. 
+EECS 216: Introduction to Signals and Systems
+Andrew Li | Computer Engineering
+Tough. This class is highly reliant on the individual -- for some students, this class is not too much work. But for other students (like me), this class was brutal. It's all differential equations based, and the homeworks are weekly and quite difficult in my opinion. 
+I absolutely despised Gregory Wakefield as a professor, but I was pretty happy with Stephane Lafortune. Don't get behind in this class, or the weekly homeworks will ruin you. 
+________________
+Ashvin Kumar | Computer Science Engineering, Electrical Engineering + Asian Languages and Cultures - Tamil Minor
+Taken in Fall 2019. Definitely one of my favorite classes I've taken. It's super math-y and the concepts can be hard to understand but if you're interested in signal processing or control systems this is an awesome class to take. I took it along with EECS 281 and it was very challenging but doable. If you have the chance to take it with Stephane Lafortune definitely do, he's a great professor.
+EECS 270: Introduction to Logic Design
+Anonymous | Computer Science Engineering
+Do not recommend. Virtual semester may be different, but the class is just impossible to learn virtually. And the labs are extremely difficult.
+________________
+Andrew Li | Computer Engineering
+This class is probably similar workload, maybe a little more than 280. It's a totally new universe for most people, which is what makes it more difficult conceptually. The labs are tough, and some of them are comparable to some 280 projects in workload. Mark Brehob is an amazing lecturer and professor, if you can take it with him, do so. His exams are kinda brutal though. 
+There are biweekly homeworks and in my semester there were group homeworks as well. I really enjoyed this class, I thought it was cool. 
+EECS 373: Introduction to Embedded System Design
+Ashvin Kumar | Computer Science Engineering, Electrical Engineering + Asian Languages and Cultures - Tamil Minor
+Taken in Winter 2021. A really cool class that I would definitely recommend taking if you're at all interested in embedded systems. It's very high workload class, so I wouldn't really recommend taking it with more than one other moderate-workload class. 
+EECS 477: Algorithms
+Salil Nadkarni | Computer Science Engineering & Math Minor
+Took it F21, with Greg Bodwin. Basically 'EECS 376 pt. 2', but that's a bit of a misnomer. Doesn't really touch decidability or computability, instead we learn about different problem areas in CS, algorithms to handle that problem area, and analytical techniques for proving runtime / memory / correctness of our algorithm. There's a fair bit of review (eg. DP & Divide and Conquer both in EECS 376), but everything is done with more depth. It's pretty collaborative, and really helps if you're taking it with other ppl who you trust. If you're looking on developing problem solving skills, and learning about CS problem spaces you might not otherwise get exposure too, it's really helpful. Also for ppl interested in Quant SWE, some of the problems I saw in interviews (eg. weird divide and conquer / dp problems, graph problems, and 'streaming' questions) appeared in 477. However, wouldn't say it's necessary or worth taking the class for, just thought it was cool. Also Greg is W prof, take any class with him you can.
+EECS 493: User Interface Development
+Sahil Patel | Computer Science Engineering
+I enjoyed this class, although didn't learn too much. You learn HTML/CSS/Javascript, JQuery, Vue, and UI theory. I enjoyed the class, but if you take 485 you won't get a ton out of the class imo. The class has a final project that's up to your groups choosing which is cool though, and depending on how much work you put in on that you can have a nice addition to your resume. Some of the projects I've seen were super cool so what you put in is what you get out. You'll go through a design process of making storyboards (and give peer feedback) and a prototype before making your final version with a video presentation. this was very low workload for me (likely since I was comfortable with 485 stuff), but when I took it in W19 there was no final project. 
+EECS 587: Parallel Computing
+Junho Park | Computer Science Engineering & Mathematics + Applied Statistics Minor
+quentin stout is prob the weirdest prof I know but not in a bad way necessarily. Fun easy class, good intro to various types of parallel computing (not multithreading)

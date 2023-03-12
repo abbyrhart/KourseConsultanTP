@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <title>OpenAI Quickstart</title>
+  <link
+    rel="shortcut icon"
+    href="{{ url_for('static', filename='beepbop.png') }}"
+  />
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+
+<body>
+  <img src="{{ url_for('static', filename='beepbop.png') }}" class="icon" width="500px"/>
+  <h3>Kourse ConsultanTP</h3>
+  <form action="/" method="post">
+    <input type="text" name="course" placeholder="What subject is the course?" required />
+    <input type="text" name="id" placeholder="What number is the course?" required/>
+    <input type="submit" value="Give me a review!" />
+  </form>
+  {% if result %}
+  <div class="result">{{ result }}</div>
+  {% endif %}
+</body>
